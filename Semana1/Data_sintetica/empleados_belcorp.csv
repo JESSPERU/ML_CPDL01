@@ -1,0 +1,1001 @@
+ID Empleado,Nombre,Apellido,Edad,Género,Área,Puesto,Tipo de Contrato,Fecha de Ingreso,Sueldo,Ciudad,Modalidad de Trabajo,Estado,Evaluación de Desempeño
+E0001,Otilia,Nuñez,60,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2018-11-11,2061.68,Cusco,Presencial,Activo,89.22
+E0002,Judith,Rosell,25,Femenino,Finanzas,Analista Financiero,Indeterminado,2019-01-31,2109.59,Arequipa,Presencial,Activo,71.6
+E0003,Luis,Urrutia,54,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2020-10-08,4777.15,Cusco,Presencial,Activo,34.03
+E0004,Segismundo,Sanabria,29,Masculino,Logística,Almacenero,Plazo Fijo,2022-09-18,1420.35,Arequipa,Remoto,Activo,80.71
+E0005,Reyes,Ferrer,49,Masculino,TI,Desarrollador Backend,Plazo Fijo,2020-12-12,4065.9,Cusco,Mixto,Activo,70.46
+E0006,Albino,Calderón,22,Masculino,Logística,Almacenero,Plazo Fijo,2019-12-22,2857.24,Piura,Presencial,Activo,36.48
+E0007,Sabina,Busquets,43,Femenino,Marketing,Coordinador de Producto,Indeterminado,2024-05-26,5678.84,Cusco,Mixto,Activo,17.11
+E0008,Zaida,Gámez,35,Masculino,TI,Soporte Técnico,Indeterminado,2022-04-07,4418.98,Cusco,Mixto,Activo,84.29
+E0009,Anabel,Álvarez,23,Masculino,Finanzas,Contador,Plazo Fijo,2019-02-06,1265.58,Iquitos,Remoto,Activo,49.92
+E0010,Joaquín,Jordá,49,Masculino,Logística,Almacenero,Plazo Fijo,2022-12-19,3776.14,Piura,Mixto,Activo,42.84
+E0011,Marcos,Alberola,57,Femenino,Logística,Almacenero,Indeterminado,2020-07-13,3432.13,Trujillo,Mixto,Activo,15.28
+E0012,Primitivo,Pazos,30,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2025-01-23,3951.15,Iquitos,Remoto,Activo,97.11
+E0013,Eligia,Castelló,20,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2023-07-19,2654.69,Cusco,Mixto,Activo,45.37
+E0014,Águeda,Guardiola,36,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2019-12-03,3503.85,Cusco,Mixto,Cesado,76.25
+E0015,Lucía,Carretero,54,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2020-07-05,1497.17,Chiclayo,Presencial,Activo,83.17
+E0016,Natividad,Contreras,39,Masculino,Finanzas,Analista Financiero,Indeterminado,2019-08-13,4640.77,Arequipa,Presencial,Activo,53.27
+E0017,Ana Sofía,Cortina,28,Masculino,Producción,Jefe de Línea,Plazo Fijo,2018-02-10,3605.31,Trujillo,Remoto,Activo,92.89
+E0018,Sandalio,Gutiérrez,32,Femenino,TI,Analista de Sistemas,Plazo Fijo,2023-09-01,5491.04,Tacna,Remoto,Cesado,22.47
+E0019,Leocadia,Frías,41,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-08-20,2046.5,Piura,Mixto,Activo,5.89
+E0020,Federico,Peiró,24,Masculino,Logística,Almacenero,Indeterminado,2023-09-06,4321.72,Piura,Remoto,Activo,72.34
+E0021,Elba,Ocaña,56,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2024-10-31,1408.23,Iquitos,Presencial,Activo,41.11
+E0022,Encarnacion,Jaume,23,Masculino,Finanzas,Contador,Indeterminado,2019-05-11,2190.69,Tacna,Presencial,Activo,14.02
+E0023,María Pilar,Garcés,31,Femenino,TI,Desarrollador Backend,Indeterminado,2025-02-01,5026.67,Arequipa,Remoto,Cesado,99.93
+E0024,Áurea,León,20,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2018-06-06,3370.49,Iquitos,Remoto,Activo,16.46
+E0025,Roque,Peiró,20,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-12-15,4461.72,Cusco,Remoto,Cesado,29.67
+E0026,Josefina,Cobo,23,Masculino,Producción,Jefe de Línea,Indeterminado,2022-08-26,3891.78,Lima,Presencial,Cesado,50.78
+E0027,Gerónimo,Cabañas,31,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2024-06-02,1537.83,Piura,Remoto,Activo,3.97
+E0028,Miriam,Pacheco,25,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2023-06-11,1965.59,Tacna,Remoto,Activo,39.58
+E0029,Alfonso,Pujol,39,Femenino,Logística,Almacenero,Indeterminado,2025-04-02,4079.28,Lima,Remoto,Cesado,21.32
+E0030,Roxana,Esparza,36,Masculino,Logística,Almacenero,Plazo Fijo,2025-06-16,2374.89,Piura,Remoto,Activo,70.35
+E0031,Francisco Javier,Poza,59,Masculino,Producción,Supervisor de Producción,Indeterminado,2022-01-13,1455.18,Cusco,Mixto,Activo,88.97
+E0032,Miguela,Toro,55,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2020-12-12,2668.4,Piura,Mixto,Activo,25.11
+E0033,Álvaro,Amigó,23,Masculino,Producción,Jefe de Línea,Prácticas,2020-02-04,947.98,Cusco,Presencial,Activo,63.71
+E0034,Abraham,Criado,36,Masculino,Producción,Jefe de Línea,Prácticas,2018-05-20,979.03,Iquitos,Mixto,Cesado,88.31
+E0035,Bernardo,Larrañaga,29,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2020-12-28,1576.15,Trujillo,Remoto,Activo,93.31
+E0036,Jose Miguel,Jerez,22,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2021-06-27,1451.16,Piura,Mixto,Activo,74.95
+E0037,Edelmira,Ródenas,35,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-12-07,4664.38,Lima,Presencial,Activo,41.17
+E0038,Berta,Ramón,35,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2024-01-10,5351.89,Arequipa,Remoto,Activo,81.66
+E0039,Ariadna,Alemany,49,Femenino,Logística,Almacenero,Plazo Fijo,2020-07-14,4276.37,Piura,Presencial,Activo,86.44
+E0040,Paulina,Pol,37,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2021-09-28,5904.43,Iquitos,Mixto,Activo,11.53
+E0041,Marianela,Badía,36,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2025-03-06,3954.62,Lima,Presencial,Activo,31.37
+E0042,Flavio,Rios,58,Masculino,TI,Analista de Sistemas,Plazo Fijo,2019-09-26,1155.04,Piura,Remoto,Cesado,92.56
+E0043,Candelaria,Alemany,54,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2021-10-28,5598.31,Arequipa,Mixto,Activo,12.46
+E0044,Lucas,Buendía,39,Femenino,Producción,Jefe de Línea,Indeterminado,2020-06-02,4464.85,Tacna,Remoto,Cesado,66.49
+E0045,Pepito,Poza,44,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-06-21,3708.04,Cusco,Remoto,Activo,21.02
+E0046,Mariana,Solera,57,Femenino,TI,Soporte Técnico,Plazo Fijo,2020-02-19,2013.47,Chiclayo,Mixto,Activo,95.98
+E0047,Rebeca,Castells,30,Masculino,Logística,Coordinador de Transporte,Indeterminado,2025-01-10,5079.41,Tacna,Presencial,Activo,22.46
+E0048,Silvestre,Esteban,32,Masculino,Finanzas,Analista Financiero,Indeterminado,2023-02-06,4029.16,Piura,Remoto,Activo,88.61
+E0049,Chema,Farré,56,Masculino,Producción,Supervisor de Producción,Indeterminado,2019-09-25,2956.24,Iquitos,Remoto,Activo,0.55
+E0050,Santos,Serra,26,Femenino,Marketing,Especialista en Marca,Indeterminado,2019-05-18,3756.05,Chiclayo,Presencial,Activo,80.14
+E0051,Esther,Márquez,53,Femenino,TI,Analista de Sistemas,Indeterminado,2020-04-12,3190.78,Iquitos,Mixto,Activo,47.47
+E0052,Manuel,Cuéllar,36,Masculino,Producción,Jefe de Línea,Plazo Fijo,2021-05-18,2142.98,Chiclayo,Mixto,Cesado,28.57
+E0053,Sosimo,López,37,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2019-08-10,1694.71,Arequipa,Presencial,Activo,70.64
+E0054,Nydia,Rivera,24,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-01-19,1245.69,Chiclayo,Remoto,Activo,76.98
+E0055,Yago,Diaz,21,Femenino,TI,Desarrollador Backend,Plazo Fijo,2024-10-22,4750.12,Tacna,Remoto,Activo,73.46
+E0056,Teodosio,Vendrell,58,Masculino,TI,Desarrollador Backend,Plazo Fijo,2018-06-28,3392.2,Cusco,Remoto,Activo,67.91
+E0057,Ernesto,Girón,45,Masculino,TI,Desarrollador Backend,Indeterminado,2023-05-08,3930.9,Lima,Remoto,Cesado,42.86
+E0058,Samu,Albero,49,Masculino,Finanzas,Contador,Plazo Fijo,2020-07-11,2003.12,Iquitos,Remoto,Activo,87.96
+E0059,Eva,Tejedor,37,Femenino,Logística,Almacenero,Indeterminado,2024-09-22,4727.55,Chiclayo,Presencial,Activo,35.0
+E0060,Diana,Pascual,24,Masculino,Finanzas,Analista Financiero,Indeterminado,2020-05-01,4080.17,Piura,Presencial,Cesado,66.95
+E0061,María Luisa,Ariño,56,Masculino,TI,Analista de Sistemas,Indeterminado,2020-09-19,1780.69,Cusco,Remoto,Activo,16.38
+E0062,Jovita,Cobo,39,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2023-09-04,4364.15,Cusco,Mixto,Activo,71.5
+E0063,Obdulia,Plana,24,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2024-07-15,3974.09,Cusco,Mixto,Activo,56.59
+E0064,Rafael,Cabrera,22,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2020-05-19,3495.22,Tacna,Presencial,Cesado,42.01
+E0065,Godofredo,Calatayud,51,Masculino,TI,Soporte Técnico,Indeterminado,2019-07-11,1705.67,Chiclayo,Mixto,Activo,96.55
+E0066,Maristela,Medina,37,Femenino,TI,Soporte Técnico,Indeterminado,2022-07-02,5248.19,Cusco,Remoto,Activo,45.08
+E0067,Cruz,Ojeda,49,Femenino,Logística,Almacenero,Indeterminado,2023-08-31,1851.93,Chiclayo,Remoto,Activo,25.84
+E0068,José Manuel,Checa,37,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2023-08-29,2153.68,Piura,Presencial,Activo,75.82
+E0069,Asdrubal,Bustamante,50,Femenino,TI,Desarrollador Backend,Indeterminado,2020-07-01,2053.49,Arequipa,Remoto,Activo,58.16
+E0070,Victor,Figueras,50,Femenino,TI,Analista de Sistemas,Plazo Fijo,2021-07-13,4493.47,Tacna,Remoto,Activo,23.05
+E0071,Samu,Marín,32,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-08-23,2027.07,Trujillo,Presencial,Activo,58.96
+E0072,Blas,Sosa,53,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2021-08-12,2759.67,Cusco,Presencial,Cesado,53.41
+E0073,Manuela,Batalla,37,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2025-01-19,5716.53,Cusco,Mixto,Cesado,1.23
+E0074,Eustaquio,Rueda,38,Femenino,TI,Soporte Técnico,Plazo Fijo,2025-01-31,5825.07,Tacna,Presencial,Activo,47.77
+E0075,África,Coello,24,Femenino,TI,Desarrollador Backend,Plazo Fijo,2020-09-20,1686.43,Lima,Presencial,Cesado,24.82
+E0076,Basilio,Caballero,55,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2020-08-18,2858.52,Piura,Mixto,Activo,58.85
+E0077,Cristina,Lloret,47,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2023-10-07,5797.75,Lima,Mixto,Activo,20.78
+E0078,Juan Antonio,Martin,33,Femenino,Producción,Operario de Planta,Indeterminado,2018-09-10,1811.23,Trujillo,Presencial,Cesado,40.85
+E0079,Amanda,Chacón,58,Femenino,Logística,Almacenero,Plazo Fijo,2019-10-19,4514.27,Piura,Remoto,Cesado,23.34
+E0080,Virginia,Linares,36,Masculino,TI,Desarrollador Backend,Plazo Fijo,2022-09-11,1685.38,Piura,Mixto,Activo,7.14
+E0081,Candela,Uriarte,30,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2022-04-06,1560.47,Cusco,Remoto,Activo,94.27
+E0082,Maximiliano,Sancho,52,Femenino,TI,Desarrollador Backend,Plazo Fijo,2018-01-10,4654.09,Lima,Remoto,Cesado,22.89
+E0083,Rafaela,Sobrino,56,Masculino,Producción,Jefe de Línea,Plazo Fijo,2022-01-08,3315.44,Lima,Presencial,Activo,18.15
+E0084,Santiago,Tejada,57,Femenino,Producción,Jefe de Línea,Plazo Fijo,2023-09-16,2694.16,Arequipa,Remoto,Activo,10.46
+E0085,Josué,Vergara,30,Femenino,TI,Analista de Sistemas,Plazo Fijo,2020-09-05,4289.3,Chiclayo,Remoto,Activo,55.01
+E0086,Odalis,Arco,49,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2023-11-13,5848.84,Tacna,Presencial,Activo,82.49
+E0087,Severiano,Arévalo,20,Femenino,TI,Desarrollador Backend,Plazo Fijo,2021-04-28,2764.22,Piura,Mixto,Activo,76.0
+E0088,Cruz,Pellicer,33,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2018-02-02,5395.89,Cusco,Remoto,Cesado,97.31
+E0089,Piedad,Gil,58,Masculino,Producción,Operario de Planta,Prácticas,2021-02-08,999.33,Cusco,Mixto,Activo,22.47
+E0090,Asunción,Ribas,27,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2023-05-01,5658.55,Trujillo,Remoto,Activo,27.34
+E0091,Narcisa,Saavedra,50,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2022-01-28,1896.39,Trujillo,Remoto,Activo,27.62
+E0092,Noé,Arco,46,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2025-04-20,4611.08,Lima,Remoto,Activo,44.65
+E0093,Rosalina,Figueras,50,Femenino,Logística,Coordinador de Transporte,Indeterminado,2019-06-14,5659.56,Iquitos,Remoto,Activo,23.88
+E0094,Úrsula,Yáñez,44,Masculino,TI,Desarrollador Backend,Plazo Fijo,2020-12-05,3327.99,Tacna,Mixto,Activo,66.37
+E0095,Regina,Roig,29,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2024-07-31,5362.15,Tacna,Presencial,Cesado,91.04
+E0096,Mario,Cid,20,Masculino,TI,Analista de Sistemas,Plazo Fijo,2020-08-07,3310.32,Trujillo,Presencial,Activo,69.27
+E0097,Tecla,Barranco,25,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2020-03-11,4107.87,Iquitos,Remoto,Activo,3.59
+E0098,Leonor,Enríquez,24,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2022-01-15,4716.11,Cusco,Presencial,Activo,76.04
+E0099,Adriana,Lumbreras,26,Femenino,Marketing,Coordinador de Producto,Indeterminado,2019-05-22,1163.17,Cusco,Presencial,Activo,37.48
+E0100,Clementina,Vall,29,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2018-05-21,1817.6,Trujillo,Presencial,Activo,24.08
+E0101,María Carmen,Cabezas,57,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2023-09-27,2224.51,Cusco,Remoto,Activo,46.53
+E0102,Leandro,Porcel,38,Masculino,Finanzas,Contador,Plazo Fijo,2024-09-06,2446.71,Tacna,Mixto,Activo,45.68
+E0103,Tomás,Franch,39,Masculino,TI,Soporte Técnico,Plazo Fijo,2025-04-24,2863.52,Arequipa,Presencial,Activo,99.27
+E0104,Eloísa,Sierra,38,Masculino,Producción,Jefe de Línea,Indeterminado,2023-12-02,3799.26,Cusco,Presencial,Activo,74.52
+E0105,Genoveva,Franco,38,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2022-12-11,1893.97,Piura,Mixto,Activo,72.09
+E0106,Rosenda,Fuente,28,Masculino,Producción,Supervisor de Producción,Indeterminado,2019-09-24,4928.26,Lima,Remoto,Activo,73.24
+E0107,Isa,Chaparro,25,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2021-05-09,1948.03,Iquitos,Presencial,Activo,91.35
+E0108,Aura,Bejarano,30,Femenino,TI,Soporte Técnico,Indeterminado,2022-06-22,3304.44,Tacna,Presencial,Cesado,96.65
+E0109,Tecla,Núñez,45,Femenino,Finanzas,Contador,Plazo Fijo,2024-01-23,3650.42,Lima,Remoto,Activo,74.9
+E0110,Raimundo,Mate,36,Femenino,Producción,Jefe de Línea,Indeterminado,2018-07-13,2115.48,Arequipa,Mixto,Activo,94.32
+E0111,Godofredo,Quirós,40,Masculino,Producción,Operario de Planta,Plazo Fijo,2020-07-28,2462.1,Chiclayo,Mixto,Cesado,4.53
+E0112,Nilda,Gallo,22,Femenino,TI,Desarrollador Backend,Indeterminado,2020-11-02,5428.4,Arequipa,Presencial,Activo,37.1
+E0113,Leonardo,Ribas,54,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2018-08-24,4250.45,Trujillo,Remoto,Activo,93.91
+E0114,Paz,Gallego,37,Masculino,Producción,Jefe de Línea,Indeterminado,2024-09-01,3184.61,Piura,Remoto,Activo,9.94
+E0115,Jennifer,Álvarez,43,Femenino,Finanzas,Contador,Plazo Fijo,2022-10-08,5838.81,Cusco,Presencial,Cesado,21.21
+E0116,Cipriano,Ribera,60,Masculino,Finanzas,Contador,Indeterminado,2021-11-19,4919.98,Piura,Presencial,Cesado,76.52
+E0117,Marcela,Marti,33,Masculino,Marketing,Diseñador Gráfico,Prácticas,2022-11-13,944.38,Trujillo,Mixto,Activo,14.47
+E0118,Gracia,Rueda,28,Femenino,Marketing,Especialista en Marca,Prácticas,2024-07-24,1005.34,Lima,Presencial,Activo,23.79
+E0119,Clarisa,Herrera,40,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2023-05-17,4690.51,Lima,Presencial,Activo,47.62
+E0120,Marcio,Fuente,43,Masculino,TI,Analista de Sistemas,Plazo Fijo,2023-08-18,1149.86,Piura,Mixto,Activo,96.4
+E0121,Anastasio,Carbajo,23,Femenino,TI,Soporte Técnico,Plazo Fijo,2020-02-03,4541.87,Arequipa,Remoto,Cesado,8.08
+E0122,Bernardita,Gallego,58,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2021-04-30,4139.7,Cusco,Mixto,Activo,59.74
+E0123,Feliciana,Múñiz,38,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2019-01-14,4951.0,Iquitos,Presencial,Activo,65.09
+E0124,Juan Carlos,Milla,55,Masculino,TI,Soporte Técnico,Plazo Fijo,2024-03-18,2648.38,Piura,Remoto,Activo,72.96
+E0125,Yésica,Español,40,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2022-01-13,5764.71,Cusco,Remoto,Cesado,83.18
+E0126,Fernando,Olivares,25,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2023-08-02,3750.8,Tacna,Presencial,Activo,41.08
+E0127,Patricio,Jordán,47,Masculino,Logística,Coordinador de Transporte,Indeterminado,2021-08-27,1455.25,Cusco,Remoto,Cesado,48.22
+E0128,Rómulo,Tormo,26,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2018-03-15,3840.69,Arequipa,Remoto,Activo,97.45
+E0129,Erasmo,Rocamora,59,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2023-04-16,1844.71,Cusco,Presencial,Activo,35.1
+E0130,Timoteo,Manzanares,31,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-06-04,1649.3,Iquitos,Presencial,Cesado,53.05
+E0131,Samanta,Gomila,44,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-09-28,2510.0,Trujillo,Remoto,Activo,56.76
+E0132,Adela,Álamo,25,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2022-03-30,1343.62,Lima,Mixto,Activo,48.57
+E0133,Marciano,Velázquez,48,Femenino,Logística,Almacenero,Plazo Fijo,2018-07-31,3109.66,Arequipa,Remoto,Activo,59.31
+E0134,Venceslás,Ríos,53,Femenino,Finanzas,Analista Financiero,Indeterminado,2020-08-10,1207.74,Iquitos,Mixto,Activo,21.12
+E0135,Perla,Ochoa,28,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-09-27,3451.74,Arequipa,Presencial,Cesado,38.02
+E0136,Inmaculada,Torralba,34,Femenino,Finanzas,Contador,Indeterminado,2025-03-01,1025.02,Lima,Remoto,Activo,57.58
+E0137,Rosalía,Niño,56,Femenino,Producción,Supervisor de Producción,Indeterminado,2023-01-27,1513.93,Iquitos,Remoto,Activo,17.19
+E0138,Malena,Portero,59,Femenino,Producción,Jefe de Línea,Indeterminado,2022-05-18,5211.54,Arequipa,Remoto,Activo,40.04
+E0139,Juan Carlos,Roldán,25,Femenino,Logística,Coordinador de Transporte,Indeterminado,2020-09-20,2618.66,Tacna,Presencial,Cesado,63.32
+E0140,Osvaldo,Vergara,53,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2018-03-19,1451.22,Trujillo,Presencial,Cesado,60.24
+E0141,Domingo,Samper,24,Masculino,Producción,Jefe de Línea,Plazo Fijo,2019-05-23,4782.58,Chiclayo,Mixto,Activo,88.2
+E0142,Amílcar,Vicente,60,Femenino,Producción,Jefe de Línea,Plazo Fijo,2018-11-07,1276.21,Trujillo,Remoto,Activo,79.63
+E0143,Godofredo,Rosa,57,Masculino,Logística,Coordinador de Transporte,Indeterminado,2018-12-18,3271.03,Arequipa,Remoto,Cesado,83.17
+E0144,Calixto,Tomás,24,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2025-03-17,3872.27,Iquitos,Remoto,Activo,80.98
+E0145,Amor,Morillo,32,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2021-11-02,3214.15,Trujillo,Presencial,Activo,8.43
+E0146,Máximo,Cabrera,31,Masculino,Marketing,Coordinador de Producto,Indeterminado,2019-03-08,3587.03,Chiclayo,Remoto,Activo,91.79
+E0147,Geraldo,Palacio,44,Femenino,Logística,Coordinador de Transporte,Indeterminado,2018-09-23,4211.84,Lima,Mixto,Activo,55.8
+E0148,Juan Pablo,Batlle,44,Femenino,Logística,Coordinador de Transporte,Indeterminado,2024-07-10,1343.22,Trujillo,Remoto,Activo,31.02
+E0149,Luis Ángel,Godoy,45,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2023-08-27,3763.73,Arequipa,Remoto,Activo,67.01
+E0150,Ramiro,Blanco,53,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2024-09-12,2764.47,Iquitos,Mixto,Activo,95.12
+E0151,Dolores,Pina,41,Femenino,Marketing,Especialista en Marca,Indeterminado,2025-03-08,1321.23,Trujillo,Presencial,Activo,53.98
+E0152,Alma,Ricart,53,Masculino,Producción,Jefe de Línea,Indeterminado,2019-05-15,2839.97,Trujillo,Mixto,Cesado,69.28
+E0153,Montserrat,Caro,59,Masculino,Producción,Jefe de Línea,Indeterminado,2022-02-03,2777.0,Lima,Remoto,Activo,61.06
+E0154,Eusebia,Benet,48,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2021-06-03,5513.15,Cusco,Remoto,Activo,94.71
+E0155,María Dolores,Ibañez,48,Femenino,Logística,Supervisor de Logística,Indeterminado,2022-01-27,5071.64,Iquitos,Presencial,Activo,5.22
+E0156,Marina,Sanabria,50,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2021-09-11,1355.25,Arequipa,Remoto,Activo,90.53
+E0157,Eusebio,Lara,29,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2019-05-16,5647.49,Chiclayo,Remoto,Cesado,50.2
+E0158,Eliana,Hernández,35,Femenino,Finanzas,Contador,Indeterminado,2025-02-04,2545.73,Piura,Presencial,Activo,65.0
+E0159,Abel,Barral,29,Masculino,Finanzas,Contador,Plazo Fijo,2020-09-01,5143.73,Chiclayo,Mixto,Activo,0.53
+E0160,Laura,Pou,25,Masculino,Logística,Almacenero,Plazo Fijo,2019-10-05,5696.95,Trujillo,Mixto,Cesado,28.81
+E0161,Ruben,Azcona,39,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2019-10-13,4955.07,Iquitos,Mixto,Cesado,83.67
+E0162,Gonzalo,Alcolea,51,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2018-10-18,1657.93,Piura,Mixto,Cesado,35.28
+E0163,Odalys,Huerta,56,Femenino,Marketing,Coordinador de Producto,Indeterminado,2024-06-17,5871.5,Arequipa,Mixto,Activo,54.41
+E0164,Yésica,Vicens,52,Masculino,TI,Soporte Técnico,Plazo Fijo,2024-11-07,2891.49,Lima,Mixto,Activo,1.62
+E0165,Raimundo,Andrés,24,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2020-07-03,4657.4,Arequipa,Mixto,Cesado,35.23
+E0166,Amparo,Escudero,41,Masculino,Producción,Jefe de Línea,Indeterminado,2019-07-05,1854.15,Chiclayo,Mixto,Cesado,77.62
+E0167,Encarnación,Corbacho,49,Masculino,Logística,Almacenero,Plazo Fijo,2023-11-11,5420.96,Lima,Presencial,Activo,51.54
+E0168,Eva,Huertas,54,Femenino,Logística,Almacenero,Indeterminado,2018-07-24,2739.86,Piura,Remoto,Activo,33.19
+E0169,Itziar,Jordán,27,Femenino,TI,Soporte Técnico,Indeterminado,2022-04-14,2648.92,Chiclayo,Remoto,Activo,49.75
+E0170,Encarna,Oller,53,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2022-06-20,3113.18,Iquitos,Presencial,Activo,32.12
+E0171,Gil,Valle,25,Femenino,Producción,Jefe de Línea,Plazo Fijo,2024-01-15,3985.29,Cusco,Remoto,Cesado,44.39
+E0172,Estela,Cortes,48,Masculino,Producción,Jefe de Línea,Indeterminado,2018-03-01,4172.11,Iquitos,Remoto,Cesado,63.75
+E0173,Rita,Cañas,43,Masculino,Finanzas,Analista Financiero,Indeterminado,2021-04-21,1569.99,Chiclayo,Presencial,Activo,36.63
+E0174,Merche,Mur,44,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2023-01-11,2816.11,Chiclayo,Remoto,Activo,52.95
+E0175,Alberto,Sureda,45,Femenino,Producción,Jefe de Línea,Indeterminado,2023-08-24,1061.38,Piura,Presencial,Activo,38.7
+E0176,Valerio,Jimenez,55,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2022-07-31,5981.57,Chiclayo,Presencial,Activo,99.86
+E0177,Águeda,Acedo,32,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2024-01-16,5486.3,Chiclayo,Presencial,Activo,81.05
+E0178,Celestino,Leal,40,Femenino,Producción,Operario de Planta,Indeterminado,2023-12-04,5246.41,Cusco,Remoto,Activo,50.88
+E0179,Emperatriz,Lara,27,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2018-07-22,2759.75,Chiclayo,Presencial,Activo,98.3
+E0180,Félix,Reyes,28,Masculino,Finanzas,Contador,Plazo Fijo,2021-08-05,4574.67,Iquitos,Mixto,Activo,82.33
+E0181,Juan Pablo,Alcalá,24,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2019-06-10,3291.77,Arequipa,Remoto,Cesado,82.91
+E0182,Jerónimo,Zapata,55,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-05-04,3556.78,Lima,Presencial,Cesado,32.27
+E0183,Pánfilo,Camacho,34,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2018-04-15,1925.25,Arequipa,Remoto,Cesado,30.28
+E0184,Demetrio,Ariño,54,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2023-05-19,5703.95,Trujillo,Mixto,Cesado,62.45
+E0185,Merche,Villena,58,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-12-13,1160.49,Lima,Presencial,Activo,76.7
+E0186,Quique,Soler,46,Masculino,TI,Analista de Sistemas,Plazo Fijo,2018-12-19,5780.22,Cusco,Mixto,Activo,80.73
+E0187,Charo,Nebot,45,Femenino,TI,Desarrollador Backend,Plazo Fijo,2019-03-02,3158.8,Lima,Presencial,Activo,34.02
+E0188,Jennifer,Cuervo,29,Femenino,Producción,Jefe de Línea,Plazo Fijo,2022-02-04,1592.98,Tacna,Remoto,Activo,10.62
+E0189,Luciano,Rebollo,35,Femenino,Finanzas,Contador,Indeterminado,2021-06-16,1644.25,Chiclayo,Presencial,Activo,38.41
+E0190,Virginia,Crespi,59,Femenino,Marketing,Especialista en Marca,Indeterminado,2022-07-31,4586.12,Tacna,Mixto,Activo,49.83
+E0191,Jose Carlos,Peña,52,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-06-27,1386.55,Chiclayo,Presencial,Activo,96.67
+E0192,Leocadio,Cobo,33,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2021-05-22,3959.42,Cusco,Remoto,Activo,0.82
+E0193,Borja,Milla,26,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2018-03-19,2785.3,Tacna,Remoto,Cesado,56.18
+E0194,Saturnina,Arjona,43,Femenino,Finanzas,Contador,Indeterminado,2020-06-12,2348.18,Chiclayo,Mixto,Cesado,9.67
+E0195,Emperatriz,Murillo,43,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2024-01-07,3984.49,Trujillo,Presencial,Activo,4.53
+E0196,Pascual,Benavides,28,Femenino,TI,Analista de Sistemas,Indeterminado,2024-01-06,4003.74,Chiclayo,Presencial,Activo,61.31
+E0197,José,Recio,30,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2022-04-18,2635.41,Cusco,Mixto,Activo,29.98
+E0198,Candelario,Pardo,21,Femenino,Logística,Coordinador de Transporte,Indeterminado,2022-10-31,3889.37,Arequipa,Remoto,Activo,26.55
+E0199,Ana,Somoza,57,Masculino,Producción,Operario de Planta,Plazo Fijo,2018-12-31,3587.86,Chiclayo,Presencial,Cesado,68.07
+E0200,Violeta,Nevado,22,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2024-02-16,3053.22,Chiclayo,Remoto,Activo,41.04
+E0201,Mateo,Llorens,59,Femenino,Producción,Supervisor de Producción,Indeterminado,2021-07-19,1630.08,Lima,Mixto,Activo,99.81
+E0202,Genoveva,Tolosa,50,Femenino,Logística,Almacenero,Plazo Fijo,2019-08-30,2665.6,Chiclayo,Mixto,Activo,86.77
+E0203,Gonzalo,Ángel,36,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2021-08-20,2443.39,Cusco,Mixto,Activo,70.49
+E0204,Valentina,Torrens,51,Femenino,TI,Soporte Técnico,Plazo Fijo,2018-09-17,1547.9,Cusco,Remoto,Activo,39.45
+E0205,Ángela,Manzano,42,Masculino,Logística,Almacenero,Plazo Fijo,2022-02-14,1330.68,Cusco,Mixto,Activo,74.73
+E0206,Samu,Hurtado,33,Masculino,Recursos Humanos,Reclutador,Indeterminado,2020-07-23,1483.78,Cusco,Presencial,Activo,66.98
+E0207,Fidel,Sanmiguel,53,Masculino,Producción,Operario de Planta,Plazo Fijo,2024-08-08,3025.44,Lima,Presencial,Cesado,77.08
+E0208,Loreto,Sáenz,20,Masculino,TI,Analista de Sistemas,Plazo Fijo,2024-07-10,4228.23,Chiclayo,Remoto,Activo,64.59
+E0209,Nicolasa,Río,25,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-06-29,3048.68,Lima,Presencial,Activo,3.63
+E0210,Clímaco,Pascual,45,Femenino,Marketing,Coordinador de Producto,Prácticas,2022-06-24,976.98,Cusco,Presencial,Activo,10.73
+E0211,Sol,Porta,41,Femenino,TI,Analista de Sistemas,Plazo Fijo,2020-02-17,5244.87,Chiclayo,Presencial,Activo,80.88
+E0212,Haydée,Soria,41,Masculino,Producción,Jefe de Línea,Plazo Fijo,2021-06-29,1874.03,Cusco,Mixto,Activo,56.78
+E0213,Heriberto,Ibáñez,32,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-01-30,3542.47,Iquitos,Remoto,Activo,9.54
+E0214,Albina,Chico,28,Femenino,Logística,Almacenero,Plazo Fijo,2019-06-27,2874.72,Lima,Remoto,Activo,95.4
+E0215,Teodoro,Guijarro,39,Masculino,Logística,Coordinador de Transporte,Indeterminado,2018-06-23,2128.05,Tacna,Mixto,Activo,15.97
+E0216,Irene,Ponce,52,Femenino,Producción,Operario de Planta,Indeterminado,2018-06-10,4046.15,Cusco,Remoto,Activo,47.82
+E0217,Tito,Soler,49,Femenino,TI,Analista de Sistemas,Indeterminado,2018-12-04,4996.11,Chiclayo,Mixto,Activo,68.03
+E0218,Rubén,Sans,58,Masculino,Recursos Humanos,Reclutador,Indeterminado,2021-03-29,5580.43,Tacna,Presencial,Cesado,54.76
+E0219,María Manuela,Ariño,52,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2025-05-17,2593.56,Trujillo,Presencial,Cesado,20.54
+E0220,Emelina,Marí,57,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2024-07-05,3228.9,Chiclayo,Presencial,Activo,5.77
+E0221,Leonor,Peinado,49,Femenino,Producción,Operario de Planta,Indeterminado,2018-11-30,5069.42,Iquitos,Remoto,Activo,4.53
+E0222,Toño,Andreu,42,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-01-21,1090.9,Arequipa,Remoto,Cesado,13.54
+E0223,Urbano,Saez,46,Femenino,TI,Soporte Técnico,Indeterminado,2024-12-18,1336.87,Iquitos,Remoto,Activo,34.78
+E0224,Débora,Porras,31,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2019-02-20,4763.83,Piura,Presencial,Activo,71.91
+E0225,Clemente,Alemany,47,Femenino,Marketing,Especialista en Marca,Indeterminado,2021-02-05,1716.47,Chiclayo,Remoto,Activo,72.5
+E0226,Evita,Uribe,27,Masculino,Producción,Jefe de Línea,Indeterminado,2020-07-14,1974.83,Lima,Presencial,Activo,44.64
+E0227,León,Cal,23,Masculino,Producción,Operario de Planta,Indeterminado,2019-03-18,2118.1,Iquitos,Remoto,Activo,77.61
+E0228,Celso,Soriano,28,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2023-03-15,3961.44,Tacna,Mixto,Activo,87.63
+E0229,Chelo,Gallego,53,Masculino,TI,Soporte Técnico,Indeterminado,2022-09-08,3752.56,Cusco,Presencial,Activo,42.72
+E0230,Verónica,Adadia,51,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2021-09-17,2545.98,Iquitos,Mixto,Activo,29.99
+E0231,Felipa,Muñoz,31,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2022-03-31,1661.86,Cusco,Mixto,Activo,56.24
+E0232,Rosario,Urrutia,46,Masculino,TI,Desarrollador Backend,Indeterminado,2022-06-26,2604.43,Cusco,Presencial,Activo,84.71
+E0233,Isidoro,Vara,25,Masculino,Finanzas,Contador,Indeterminado,2018-07-08,3997.2,Iquitos,Mixto,Activo,18.82
+E0234,Oriana,Rivero,57,Masculino,TI,Desarrollador Backend,Indeterminado,2018-05-26,5782.09,Tacna,Remoto,Activo,19.0
+E0235,Dorotea,Marco,27,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2023-06-22,5569.69,Piura,Remoto,Activo,38.07
+E0236,Chuy,Durán,54,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-04-25,5405.86,Tacna,Mixto,Cesado,98.13
+E0237,Nilda,Lerma,50,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2020-02-20,1161.78,Tacna,Remoto,Activo,1.62
+E0238,Rafaela,Pons,55,Femenino,Logística,Almacenero,Indeterminado,2022-08-08,2096.19,Piura,Remoto,Activo,65.46
+E0239,Félix,Casals,41,Femenino,TI,Analista de Sistemas,Plazo Fijo,2018-01-30,1782.94,Chiclayo,Remoto,Cesado,72.03
+E0240,Estrella,Morales,51,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-12-17,1101.49,Lima,Mixto,Activo,66.82
+E0241,Osvaldo,Bello,20,Femenino,Marketing,Coordinador de Producto,Indeterminado,2018-04-26,4515.35,Piura,Presencial,Activo,45.6
+E0242,Ciro,Amorós,23,Femenino,Producción,Jefe de Línea,Plazo Fijo,2022-02-18,3628.32,Lima,Presencial,Cesado,52.94
+E0243,Julieta,Esteve,37,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2021-12-08,1472.57,Iquitos,Presencial,Activo,24.1
+E0244,María,Fonseca,59,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-08-17,2821.37,Iquitos,Presencial,Activo,24.32
+E0245,África,Viñas,34,Femenino,Producción,Operario de Planta,Plazo Fijo,2020-11-04,2984.76,Lima,Presencial,Activo,5.61
+E0246,Eli,Rodríguez,20,Masculino,Finanzas,Contador,Indeterminado,2022-12-11,4906.79,Iquitos,Mixto,Activo,91.92
+E0247,Emma,Miranda,34,Masculino,Producción,Supervisor de Producción,Indeterminado,2021-07-20,1166.07,Chiclayo,Remoto,Activo,28.04
+E0248,Marisa,Somoza,54,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2021-02-21,3906.27,Lima,Presencial,Activo,29.93
+E0249,Isaac,Badía,56,Masculino,Recursos Humanos,Reclutador,Indeterminado,2024-09-20,4760.94,Tacna,Remoto,Activo,68.93
+E0250,Clemente,Jordán,25,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2025-01-10,5182.08,Iquitos,Presencial,Activo,61.39
+E0251,Julián,Alfaro,58,Femenino,Logística,Almacenero,Plazo Fijo,2019-10-03,3417.36,Cusco,Remoto,Activo,37.54
+E0252,Amor,Julián,31,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2023-11-10,4545.46,Cusco,Presencial,Activo,38.0
+E0253,Flavia,Zapata,60,Masculino,Producción,Jefe de Línea,Indeterminado,2018-04-14,1470.21,Tacna,Remoto,Activo,44.47
+E0254,Gastón,Mena,37,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2018-01-28,3205.64,Trujillo,Remoto,Cesado,8.96
+E0255,Miguel,Simó,55,Masculino,Recursos Humanos,Asistente de Bienestar,Prácticas,2020-11-13,992.57,Tacna,Remoto,Activo,77.92
+E0256,Roque,Pons,55,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2020-07-02,2860.31,Trujillo,Mixto,Activo,26.84
+E0257,Marcelo,Lerma,29,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2020-02-20,2449.74,Cusco,Remoto,Activo,94.42
+E0258,Román,Nuñez,60,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2021-03-06,1472.35,Piura,Remoto,Cesado,39.57
+E0259,Fabiana,Prado,59,Femenino,Logística,Supervisor de Logística,Indeterminado,2021-01-19,5064.46,Tacna,Remoto,Activo,60.32
+E0260,Rosario,Álamo,32,Femenino,Logística,Almacenero,Plazo Fijo,2024-12-08,2407.64,Iquitos,Remoto,Activo,78.2
+E0261,Joaquín,Gargallo,40,Femenino,Logística,Supervisor de Logística,Indeterminado,2024-09-12,5655.58,Tacna,Presencial,Activo,54.56
+E0262,Rafa,Morera,55,Masculino,Producción,Jefe de Línea,Indeterminado,2022-04-26,4974.27,Piura,Remoto,Activo,79.57
+E0263,Julieta,Herrera,46,Femenino,Marketing,Coordinador de Producto,Indeterminado,2021-11-24,2211.1,Cusco,Presencial,Activo,78.91
+E0264,Genoveva,Bru,24,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2021-02-07,3498.53,Iquitos,Mixto,Activo,79.07
+E0265,Jordi,Barbero,43,Masculino,Finanzas,Analista Financiero,Indeterminado,2021-12-28,4210.29,Tacna,Presencial,Activo,64.5
+E0266,Alberto,Porta,45,Femenino,TI,Desarrollador Backend,Indeterminado,2019-10-23,2241.8,Lima,Presencial,Activo,39.11
+E0267,Lucho,Palacios,57,Masculino,Logística,Almacenero,Indeterminado,2024-07-01,2427.84,Chiclayo,Presencial,Cesado,94.07
+E0268,Gema,Gonzalez,29,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-06-05,3572.05,Chiclayo,Presencial,Activo,43.82
+E0269,Nuria,Toro,48,Femenino,Finanzas,Contador,Plazo Fijo,2018-04-24,1513.48,Lima,Mixto,Activo,67.71
+E0270,Palmira,Caro,30,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2022-05-10,3768.43,Trujillo,Remoto,Activo,40.5
+E0271,Jenaro,Santamaria,31,Masculino,Producción,Supervisor de Producción,Indeterminado,2023-10-25,1078.0,Iquitos,Remoto,Activo,42.96
+E0272,Ciriaco,Beltrán,20,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2023-05-04,1445.88,Arequipa,Mixto,Activo,19.71
+E0273,Carina,Valls,27,Femenino,Producción,Jefe de Línea,Plazo Fijo,2018-10-21,2900.4,Tacna,Mixto,Activo,34.79
+E0274,Nazaret,Moliner,49,Masculino,Producción,Supervisor de Producción,Indeterminado,2024-07-22,3922.15,Cusco,Mixto,Activo,23.86
+E0275,Jordán,Conesa,27,Masculino,Logística,Coordinador de Transporte,Indeterminado,2020-06-01,2899.51,Trujillo,Mixto,Activo,42.3
+E0276,Mónica,Cárdenas,51,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2025-06-20,1641.3,Chiclayo,Remoto,Activo,61.94
+E0277,Baudelio,Ferrera,42,Masculino,TI,Desarrollador Backend,Plazo Fijo,2023-06-16,5816.61,Piura,Remoto,Activo,49.17
+E0278,Modesta,Llorens,48,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2025-04-23,2410.9,Lima,Presencial,Activo,28.87
+E0279,Berto,Pujol,49,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2024-02-14,1509.03,Arequipa,Mixto,Activo,75.68
+E0280,Simón,Rocha,48,Masculino,TI,Desarrollador Backend,Indeterminado,2021-10-12,5365.29,Piura,Remoto,Activo,34.86
+E0281,Pánfilo,Tejera,25,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2024-04-27,3910.77,Piura,Mixto,Activo,61.03
+E0282,Baldomero,Casals,47,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2019-08-13,5013.58,Piura,Presencial,Activo,59.69
+E0283,Pacífica,García,30,Femenino,Producción,Jefe de Línea,Indeterminado,2021-10-02,2285.43,Cusco,Mixto,Cesado,75.01
+E0284,Alma,Artigas,46,Masculino,Logística,Coordinador de Transporte,Indeterminado,2019-08-12,5321.02,Trujillo,Mixto,Cesado,32.21
+E0285,Francisca,Escalona,35,Femenino,TI,Desarrollador Backend,Plazo Fijo,2023-03-20,3030.12,Cusco,Mixto,Cesado,79.46
+E0286,Irene,Carranza,25,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2022-11-02,5677.22,Cusco,Mixto,Activo,48.8
+E0287,Lupita,Castilla,57,Masculino,Producción,Operario de Planta,Plazo Fijo,2022-03-05,4297.21,Chiclayo,Mixto,Activo,79.57
+E0288,Adelardo,Bejarano,45,Masculino,TI,Desarrollador Backend,Plazo Fijo,2023-09-11,2566.93,Chiclayo,Remoto,Activo,57.79
+E0289,Ascensión,Menendez,56,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2018-11-20,1434.84,Lima,Presencial,Cesado,92.94
+E0290,Felicidad,Estrada,30,Femenino,TI,Desarrollador Backend,Indeterminado,2019-08-07,5978.17,Iquitos,Presencial,Activo,30.19
+E0291,Edu,Roma,37,Masculino,Producción,Jefe de Línea,Indeterminado,2025-02-14,2815.25,Cusco,Presencial,Cesado,62.56
+E0292,Prudencia,Roca,34,Femenino,Producción,Operario de Planta,Indeterminado,2025-02-04,2012.05,Arequipa,Presencial,Cesado,22.62
+E0293,Luís,Vazquez,48,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2019-02-22,5939.95,Tacna,Presencial,Activo,47.77
+E0294,Ainoa,Luján,34,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-09-15,2518.69,Arequipa,Presencial,Cesado,77.35
+E0295,Salvador,Viña,28,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2019-10-09,4225.6,Lima,Mixto,Activo,21.31
+E0296,Ámbar,Ayuso,29,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-03-11,1369.51,Chiclayo,Presencial,Cesado,12.32
+E0297,Ascensión,Sáez,44,Femenino,TI,Soporte Técnico,Indeterminado,2019-12-26,2334.23,Trujillo,Presencial,Activo,60.1
+E0298,Renato,Juárez,58,Femenino,Producción,Operario de Planta,Indeterminado,2019-06-07,3554.99,Cusco,Presencial,Activo,29.55
+E0299,Loida,Rodriguez,23,Masculino,TI,Soporte Técnico,Indeterminado,2023-12-01,3462.88,Arequipa,Presencial,Activo,97.77
+E0300,Maricruz,Avilés,43,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2021-05-30,3700.03,Iquitos,Remoto,Activo,95.45
+E0301,Edgardo,Ugarte,24,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2019-06-27,2023.82,Lima,Remoto,Activo,39.8
+E0302,Ovidio,Manzano,38,Femenino,TI,Analista de Sistemas,Indeterminado,2022-04-14,4177.52,Iquitos,Presencial,Activo,30.99
+E0303,Calixta,Ribera,52,Masculino,Marketing,Coordinador de Producto,Indeterminado,2024-03-06,3903.24,Tacna,Remoto,Activo,43.75
+E0304,Fausto,Valls,35,Masculino,Marketing,Especialista en Marca,Indeterminado,2025-01-25,3228.6,Iquitos,Presencial,Activo,74.17
+E0305,Teodora,Gutierrez,31,Masculino,Finanzas,Jefe de Tesorería,Prácticas,2018-04-12,987.55,Trujillo,Mixto,Activo,34.67
+E0306,Juan José,Tamayo,53,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2021-02-24,4890.3,Trujillo,Mixto,Activo,11.81
+E0307,Basilio,Catalán,21,Femenino,TI,Soporte Técnico,Indeterminado,2018-06-01,4541.48,Arequipa,Remoto,Activo,51.08
+E0308,Germán,Dalmau,23,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2024-05-03,2223.44,Tacna,Presencial,Activo,67.41
+E0309,Asunción,Campillo,27,Masculino,Producción,Supervisor de Producción,Indeterminado,2024-10-30,5283.55,Lima,Presencial,Activo,47.18
+E0310,Pascual,Berenguer,44,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2019-12-12,2561.54,Iquitos,Presencial,Activo,31.99
+E0311,Ignacia,Bonet,24,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2024-01-12,2061.55,Lima,Presencial,Activo,6.89
+E0312,Trinidad,Tur,49,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2023-05-08,3245.7,Arequipa,Mixto,Activo,56.38
+E0313,Lalo,Fiol,39,Masculino,TI,Soporte Técnico,Indeterminado,2018-02-17,4643.59,Chiclayo,Presencial,Cesado,93.24
+E0314,Corona,Benet,21,Masculino,Recursos Humanos,Reclutador,Prácticas,2021-02-27,937.41,Lima,Remoto,Activo,84.9
+E0315,Luciana,Castelló,39,Masculino,Marketing,Coordinador de Producto,Indeterminado,2020-07-04,3424.59,Piura,Remoto,Activo,14.24
+E0316,Moreno,Barrios,37,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2025-01-23,5470.58,Iquitos,Mixto,Activo,8.49
+E0317,María,Sáez,26,Masculino,Producción,Jefe de Línea,Plazo Fijo,2020-02-12,3808.85,Arequipa,Mixto,Activo,13.07
+E0318,Ramón,Mir,38,Femenino,Logística,Supervisor de Logística,Indeterminado,2021-07-08,3225.48,Tacna,Remoto,Cesado,20.27
+E0319,Rafa,Bru,57,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2021-01-25,3292.9,Trujillo,Remoto,Cesado,35.83
+E0320,Pelayo,Conesa,33,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2018-06-24,1388.43,Cusco,Presencial,Activo,69.69
+E0321,Dominga,Valenciano,22,Masculino,Logística,Almacenero,Plazo Fijo,2019-03-18,2188.47,Arequipa,Mixto,Activo,4.9
+E0322,Nieves,Galindo,39,Femenino,Marketing,Especialista en Marca,Indeterminado,2024-12-08,3748.69,Iquitos,Remoto,Cesado,10.19
+E0323,Roldán,Nogueira,28,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2018-01-22,1934.53,Piura,Presencial,Activo,63.03
+E0324,Liliana,Pozuelo,25,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2018-02-15,5505.66,Arequipa,Presencial,Activo,9.2
+E0325,Natalia,Guillén,41,Masculino,Finanzas,Contador,Plazo Fijo,2020-06-19,5615.35,Lima,Presencial,Activo,39.5
+E0326,Nilda,Ricart,21,Femenino,Producción,Jefe de Línea,Indeterminado,2021-07-07,2018.61,Trujillo,Remoto,Activo,44.6
+E0327,Blanca,Ibarra,29,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2023-10-27,2426.18,Piura,Mixto,Activo,47.9
+E0328,Cleto,Bru,25,Femenino,TI,Desarrollador Backend,Indeterminado,2024-08-14,4188.25,Iquitos,Presencial,Activo,80.22
+E0329,Herminio,Chico,21,Femenino,Producción,Jefe de Línea,Plazo Fijo,2021-01-17,4891.88,Chiclayo,Mixto,Activo,50.24
+E0330,Virginia,Casanova,44,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2021-09-20,2040.43,Tacna,Mixto,Cesado,99.15
+E0331,Roberta,Losada,53,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2024-09-27,2186.64,Trujillo,Presencial,Activo,81.63
+E0332,Víctor,Esteve,23,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2024-01-27,1822.83,Tacna,Presencial,Activo,69.76
+E0333,Agustín,Martín,57,Masculino,Producción,Supervisor de Producción,Indeterminado,2025-03-03,3787.48,Tacna,Mixto,Activo,81.04
+E0334,Herberto,Molins,51,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2020-12-31,1214.77,Lima,Presencial,Cesado,47.8
+E0335,Amancio,Bermúdez,41,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2021-02-07,1231.95,Trujillo,Remoto,Activo,91.72
+E0336,Maxi,Oller,27,Femenino,Finanzas,Contador,Plazo Fijo,2025-06-16,1442.23,Iquitos,Mixto,Activo,97.59
+E0337,Mamen,Moreno,47,Femenino,Producción,Jefe de Línea,Plazo Fijo,2020-06-27,5841.53,Trujillo,Mixto,Activo,58.9
+E0338,Pepe,Guardia,31,Femenino,Logística,Coordinador de Transporte,Indeterminado,2019-05-19,1830.98,Cusco,Presencial,Activo,94.87
+E0339,Azahara,Martinez,45,Masculino,Marketing,Coordinador de Producto,Indeterminado,2023-08-28,2049.94,Tacna,Mixto,Activo,14.06
+E0340,Elías,Lozano,24,Masculino,Logística,Supervisor de Logística,Indeterminado,2024-02-13,5418.57,Trujillo,Mixto,Activo,67.0
+E0341,Isaura,Otero,41,Femenino,Finanzas,Contador,Plazo Fijo,2020-01-31,4444.4,Piura,Presencial,Activo,10.8
+E0342,Plinio,Mesa,20,Masculino,TI,Soporte Técnico,Plazo Fijo,2024-04-20,5414.68,Iquitos,Presencial,Activo,35.12
+E0343,Camila,Gómez,44,Masculino,TI,Analista de Sistemas,Indeterminado,2021-03-20,3218.03,Piura,Presencial,Activo,31.87
+E0344,José,Piquer,26,Masculino,Logística,Almacenero,Indeterminado,2023-08-07,4641.16,Iquitos,Presencial,Activo,98.53
+E0345,Almudena,Cabo,50,Masculino,TI,Analista de Sistemas,Indeterminado,2024-05-12,5441.05,Trujillo,Mixto,Cesado,33.11
+E0346,Bernardita,Diéguez,32,Femenino,Producción,Supervisor de Producción,Indeterminado,2020-12-20,2357.32,Cusco,Mixto,Cesado,39.29
+E0347,Ana Sofía,Nevado,55,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2024-03-14,3097.96,Tacna,Presencial,Activo,62.51
+E0348,Américo,Mayo,50,Masculino,Finanzas,Analista Financiero,Indeterminado,2020-01-24,4165.63,Piura,Presencial,Activo,11.55
+E0349,Dani,Sainz,45,Femenino,TI,Analista de Sistemas,Plazo Fijo,2018-11-04,4184.26,Cusco,Presencial,Cesado,88.55
+E0350,Desiderio,Seco,43,Masculino,TI,Desarrollador Backend,Indeterminado,2022-03-06,3287.84,Cusco,Remoto,Activo,56.42
+E0351,Adelia,Almazán,29,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2019-06-06,3028.91,Tacna,Mixto,Activo,84.08
+E0352,Elba,Uribe,53,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2024-11-05,5399.99,Chiclayo,Mixto,Activo,39.48
+E0353,Alexandra,Garay,22,Masculino,Finanzas,Contador,Indeterminado,2021-02-15,5858.88,Trujillo,Presencial,Cesado,42.34
+E0354,Concha,Aguado,47,Masculino,Producción,Operario de Planta,Indeterminado,2021-06-08,5547.78,Cusco,Remoto,Cesado,55.64
+E0355,Luisa,Villanueva,55,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2021-10-02,4917.81,Chiclayo,Presencial,Cesado,14.96
+E0356,Vasco,Castañeda,56,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-09-29,5328.1,Arequipa,Remoto,Activo,26.41
+E0357,Andrés,Porta,51,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2021-05-13,1659.33,Cusco,Remoto,Cesado,88.96
+E0358,Alfonso,Almazán,41,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2018-04-17,5477.95,Chiclayo,Remoto,Activo,79.37
+E0359,Alexandra,Jáuregui,39,Femenino,TI,Analista de Sistemas,Plazo Fijo,2018-03-15,1611.33,Arequipa,Presencial,Activo,32.09
+E0360,Lara,Castells,46,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2022-05-17,4686.59,Piura,Remoto,Activo,51.53
+E0361,Seve,Tejada,30,Masculino,Logística,Coordinador de Transporte,Indeterminado,2021-09-02,4887.22,Iquitos,Presencial,Cesado,87.52
+E0362,Renata,Arranz,32,Masculino,Marketing,Especialista en Marca,Indeterminado,2018-08-08,5584.42,Chiclayo,Presencial,Activo,82.35
+E0363,Mariano,Sevilla,52,Femenino,Producción,Operario de Planta,Plazo Fijo,2020-12-25,2818.41,Lima,Presencial,Cesado,87.05
+E0364,Dominga,Lara,57,Femenino,Logística,Almacenero,Indeterminado,2018-06-17,5142.51,Cusco,Mixto,Activo,38.66
+E0365,Adelia,Valcárcel,30,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2023-12-25,1978.13,Piura,Mixto,Activo,86.46
+E0366,Manuel,Arregui,20,Femenino,Marketing,Coordinador de Producto,Indeterminado,2021-11-27,4990.38,Trujillo,Mixto,Activo,80.51
+E0367,Ale,Revilla,39,Femenino,TI,Soporte Técnico,Plazo Fijo,2018-06-10,2207.63,Tacna,Remoto,Activo,52.06
+E0368,Fanny,Pujol,59,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2025-06-20,5997.11,Lima,Mixto,Activo,59.38
+E0369,Patricia,Zabala,38,Femenino,Producción,Operario de Planta,Plazo Fijo,2020-09-12,2634.96,Chiclayo,Presencial,Activo,86.15
+E0370,Joan,Chico,36,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2024-05-25,5013.53,Piura,Presencial,Activo,68.08
+E0371,Violeta,Bayona,21,Femenino,Logística,Supervisor de Logística,Indeterminado,2024-02-08,2898.55,Iquitos,Remoto,Activo,99.48
+E0372,Inés,Asenjo,32,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2019-08-11,3640.6,Piura,Mixto,Activo,67.19
+E0373,Sonia,Casal,52,Femenino,Marketing,Coordinador de Producto,Indeterminado,2022-04-18,1424.85,Trujillo,Remoto,Activo,72.52
+E0374,Jordi,Garriga,55,Masculino,Producción,Jefe de Línea,Plazo Fijo,2020-09-13,2731.29,Arequipa,Presencial,Activo,88.68
+E0375,Glauco,Romeu,43,Femenino,Recursos Humanos,Reclutador,Indeterminado,2021-09-21,3315.62,Chiclayo,Presencial,Activo,19.45
+E0376,Emilia,Jerez,27,Femenino,Recursos Humanos,Reclutador,Indeterminado,2024-08-03,5345.21,Iquitos,Presencial,Cesado,20.03
+E0377,Julia,Román,46,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2018-02-19,3402.03,Trujillo,Presencial,Activo,5.8
+E0378,Encarnacion,Solsona,48,Femenino,Marketing,Especialista en Marca,Indeterminado,2018-12-29,4911.02,Trujillo,Remoto,Cesado,43.37
+E0379,Coral,Trujillo,47,Femenino,TI,Soporte Técnico,Indeterminado,2020-08-09,1121.27,Iquitos,Presencial,Activo,95.01
+E0380,Francisco,Prada,40,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2022-04-12,4649.37,Lima,Mixto,Activo,34.43
+E0381,Eutimio,Tejera,28,Masculino,TI,Analista de Sistemas,Indeterminado,2018-02-24,1261.01,Cusco,Presencial,Activo,29.08
+E0382,Crescencia,Montserrat,53,Femenino,TI,Analista de Sistemas,Plazo Fijo,2022-05-26,5980.42,Trujillo,Remoto,Activo,18.84
+E0383,Ligia,Pérez,45,Masculino,Marketing,Especialista en Marca,Indeterminado,2023-01-28,4651.77,Trujillo,Presencial,Cesado,71.11
+E0384,Adelina,Catalá,22,Femenino,Producción,Jefe de Línea,Indeterminado,2019-08-16,5973.03,Lima,Mixto,Activo,1.97
+E0385,Martín,Juan,27,Femenino,TI,Soporte Técnico,Indeterminado,2019-12-17,2211.38,Arequipa,Mixto,Activo,68.57
+E0386,Aránzazu,Pagès,20,Femenino,TI,Analista de Sistemas,Indeterminado,2024-09-23,3567.97,Arequipa,Mixto,Activo,89.86
+E0387,Elías,Arenas,52,Masculino,Logística,Almacenero,Indeterminado,2023-08-07,1937.14,Arequipa,Remoto,Activo,83.15
+E0388,Saturnina,Falcón,32,Femenino,Producción,Jefe de Línea,Plazo Fijo,2024-02-08,1129.79,Cusco,Presencial,Activo,68.82
+E0389,Erasmo,Sanmartín,50,Femenino,Marketing,Especialista en Marca,Indeterminado,2025-05-22,1381.24,Lima,Mixto,Activo,66.9
+E0390,Joaquina,Milla,29,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-09-17,4196.79,Arequipa,Remoto,Activo,29.6
+E0391,Dimas,Campos,49,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2023-10-10,2756.29,Lima,Remoto,Activo,11.59
+E0392,Fito,Cases,22,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2020-05-23,2742.66,Trujillo,Remoto,Activo,26.83
+E0393,Perla,Palomares,25,Femenino,Logística,Almacenero,Plazo Fijo,2020-09-12,2959.27,Arequipa,Remoto,Activo,38.57
+E0394,Juanita,Barriga,50,Femenino,Producción,Operario de Planta,Indeterminado,2018-11-24,4459.58,Arequipa,Presencial,Activo,84.43
+E0395,Fabiola,Vera,26,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2024-05-01,4029.41,Chiclayo,Presencial,Activo,86.26
+E0396,Cruz,Figuerola,28,Femenino,TI,Desarrollador Backend,Plazo Fijo,2021-03-19,1163.08,Iquitos,Remoto,Activo,1.24
+E0397,Nacho,Vidal,53,Masculino,Producción,Jefe de Línea,Indeterminado,2020-12-14,4284.89,Arequipa,Remoto,Activo,66.37
+E0398,Abraham,Pedrero,44,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2019-08-26,4192.03,Lima,Presencial,Activo,46.93
+E0399,Ignacia,Ramos,51,Masculino,Finanzas,Contador,Plazo Fijo,2018-07-13,2607.64,Tacna,Presencial,Cesado,22.27
+E0400,Jose,Ríos,44,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2022-10-29,4992.39,Chiclayo,Remoto,Cesado,49.85
+E0401,Isabela,Villa,40,Masculino,TI,Analista de Sistemas,Indeterminado,2022-05-05,2975.44,Lima,Presencial,Activo,0.02
+E0402,Azahara,Cortina,25,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2021-10-25,4334.38,Piura,Mixto,Activo,5.43
+E0403,Felicidad,Gabaldón,34,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2019-12-03,4261.84,Chiclayo,Mixto,Cesado,75.93
+E0404,Tere,Luz,34,Masculino,Logística,Supervisor de Logística,Indeterminado,2022-03-29,3576.46,Cusco,Mixto,Cesado,16.42
+E0405,Anselma,Murcia,28,Femenino,Finanzas,Contador,Plazo Fijo,2025-06-22,1542.18,Piura,Presencial,Activo,82.46
+E0406,Ernesto,Folch,32,Femenino,Finanzas,Contador,Indeterminado,2020-05-14,5175.95,Lima,Mixto,Activo,45.05
+E0407,Josefina,Nadal,57,Masculino,TI,Desarrollador Backend,Plazo Fijo,2023-02-08,5672.01,Lima,Mixto,Activo,78.11
+E0408,Esperanza,Duarte,31,Masculino,Producción,Operario de Planta,Plazo Fijo,2023-12-07,4263.64,Arequipa,Remoto,Activo,38.47
+E0409,Cayetano,Garrido,58,Masculino,Logística,Supervisor de Logística,Indeterminado,2022-11-02,3225.93,Tacna,Remoto,Cesado,60.25
+E0410,Joaquina,Sobrino,52,Femenino,Producción,Supervisor de Producción,Indeterminado,2023-11-16,4665.67,Tacna,Mixto,Activo,62.42
+E0411,Tere,Hierro,38,Femenino,Producción,Operario de Planta,Plazo Fijo,2019-08-29,3680.43,Trujillo,Mixto,Activo,76.08
+E0412,Marcelino,Camps,55,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2024-09-23,4721.69,Iquitos,Mixto,Activo,42.24
+E0413,Benigna,Fiol,20,Masculino,Finanzas,Contador,Indeterminado,2022-11-29,4328.19,Trujillo,Presencial,Activo,78.55
+E0414,Bibiana,Martinez,38,Femenino,Marketing,Especialista en Marca,Indeterminado,2024-11-19,4750.72,Cusco,Presencial,Activo,45.26
+E0415,Ainara,Cantero,59,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2020-05-05,3520.38,Iquitos,Presencial,Activo,4.7
+E0416,Alexandra,Matas,44,Femenino,TI,Analista de Sistemas,Plazo Fijo,2020-12-22,1202.78,Tacna,Mixto,Activo,86.88
+E0417,Lilia,Dalmau,48,Masculino,Producción,Supervisor de Producción,Indeterminado,2022-09-10,3701.34,Tacna,Mixto,Activo,96.43
+E0418,Encarnita,Carrión,38,Femenino,Marketing,Coordinador de Producto,Indeterminado,2019-01-09,5809.75,Arequipa,Presencial,Activo,42.85
+E0419,María Jesús,Torrent,55,Femenino,Marketing,Especialista en Marca,Indeterminado,2022-04-22,2605.95,Cusco,Presencial,Cesado,92.86
+E0420,Jose Ignacio,Solano,58,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2018-05-11,4934.83,Cusco,Remoto,Cesado,70.77
+E0421,Felisa,Arnaiz,53,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2022-11-22,1738.01,Arequipa,Mixto,Cesado,22.12
+E0422,Macario,Quintana,33,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2018-06-02,5748.06,Cusco,Presencial,Activo,82.37
+E0423,Armando,Bolaños,20,Masculino,Producción,Jefe de Línea,Indeterminado,2025-04-19,5515.8,Chiclayo,Presencial,Activo,68.26
+E0424,Samu,Carvajal,40,Femenino,Finanzas,Contador,Indeterminado,2020-08-21,4600.56,Cusco,Mixto,Activo,82.21
+E0425,Piedad,Miró,43,Femenino,TI,Desarrollador Backend,Indeterminado,2023-10-14,1906.04,Cusco,Mixto,Activo,16.74
+E0426,Azahar,Ferrero,54,Masculino,Producción,Operario de Planta,Indeterminado,2018-06-05,4121.64,Piura,Mixto,Activo,42.42
+E0427,Domitila,Aragón,26,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2020-01-28,5070.94,Iquitos,Mixto,Activo,15.38
+E0428,Ibán,Ricart,49,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2023-05-07,1832.42,Arequipa,Presencial,Activo,57.5
+E0429,Baldomero,Amor,34,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-05-17,2980.55,Chiclayo,Mixto,Cesado,67.33
+E0430,Joaquina,Pozuelo,54,Masculino,Producción,Supervisor de Producción,Indeterminado,2022-09-01,3899.03,Arequipa,Mixto,Activo,50.28
+E0431,Albina,Contreras,38,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2025-03-03,2863.77,Cusco,Remoto,Activo,53.35
+E0432,Toribio,Ariño,28,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2023-11-19,4363.86,Trujillo,Remoto,Activo,1.12
+E0433,Nélida,Prieto,55,Masculino,Finanzas,Analista Financiero,Indeterminado,2022-02-15,3955.04,Lima,Mixto,Activo,74.83
+E0434,Felisa,Asensio,42,Masculino,TI,Analista de Sistemas,Plazo Fijo,2022-07-16,1862.84,Trujillo,Presencial,Cesado,18.14
+E0435,Severino,Posada,56,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2020-10-16,4335.44,Arequipa,Remoto,Cesado,72.56
+E0436,Ambrosio,Colomer,51,Femenino,Logística,Almacenero,Indeterminado,2021-04-05,2375.65,Piura,Presencial,Activo,31.78
+E0437,Roberta,Agustín,48,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2022-11-09,3891.74,Cusco,Mixto,Activo,95.87
+E0438,Isidoro,Izquierdo,30,Masculino,Logística,Almacenero,Plazo Fijo,2021-08-18,4680.87,Piura,Mixto,Activo,35.95
+E0439,Augusto,Olivé,41,Femenino,TI,Soporte Técnico,Indeterminado,2020-07-10,3398.94,Tacna,Remoto,Cesado,60.66
+E0440,Otilia,Sarabia,37,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2025-02-18,5423.72,Cusco,Mixto,Activo,89.21
+E0441,Jaime,Cárdenas,52,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2020-08-25,2008.7,Iquitos,Mixto,Activo,54.35
+E0442,Azahara,Montes,54,Femenino,Producción,Operario de Planta,Plazo Fijo,2023-03-06,2062.16,Tacna,Remoto,Cesado,50.11
+E0443,Dimas,Palma,25,Femenino,Logística,Coordinador de Transporte,Indeterminado,2020-11-04,2141.13,Lima,Mixto,Activo,14.04
+E0444,Íngrid,Frutos,30,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2021-09-09,4641.26,Trujillo,Mixto,Cesado,76.15
+E0445,Leire,Pujol,34,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2019-07-04,4319.73,Piura,Presencial,Activo,91.79
+E0446,Anacleto,Borrego,22,Masculino,Producción,Jefe de Línea,Plazo Fijo,2019-07-22,5840.0,Arequipa,Mixto,Activo,26.33
+E0447,Ambrosio,Asenjo,54,Masculino,TI,Analista de Sistemas,Indeterminado,2021-08-29,3909.53,Iquitos,Remoto,Activo,37.63
+E0448,Melchor,Cases,34,Femenino,Logística,Supervisor de Logística,Indeterminado,2024-05-20,5427.96,Chiclayo,Remoto,Activo,13.9
+E0449,Andrés Felipe,Camacho,30,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2023-12-20,1691.72,Cusco,Presencial,Activo,71.73
+E0450,María Manuela,Benítez,27,Masculino,TI,Soporte Técnico,Plazo Fijo,2021-07-12,4353.41,Arequipa,Remoto,Activo,16.12
+E0451,Socorro,Pineda,46,Masculino,Marketing,Especialista en Marca,Indeterminado,2023-03-18,3933.2,Trujillo,Mixto,Activo,3.92
+E0452,Conrado,Sastre,56,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2019-10-10,3549.37,Cusco,Presencial,Activo,56.36
+E0453,Amado,Villalba,21,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2024-06-17,5963.37,Chiclayo,Mixto,Cesado,83.04
+E0454,Edelmira,Vidal,58,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2025-02-23,4601.63,Cusco,Presencial,Activo,59.65
+E0455,Dafne,Tomé,24,Masculino,TI,Soporte Técnico,Prácticas,2019-12-25,1013.97,Trujillo,Presencial,Activo,90.93
+E0456,Conrado,Armas,46,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2018-06-02,5501.15,Trujillo,Remoto,Activo,53.14
+E0457,Donato,Espada,27,Masculino,TI,Analista de Sistemas,Indeterminado,2019-10-12,3664.18,Trujillo,Mixto,Activo,77.49
+E0458,Guadalupe,Mármol,47,Femenino,Logística,Almacenero,Plazo Fijo,2021-05-25,5687.8,Iquitos,Presencial,Activo,38.12
+E0459,María Ángeles,Abella,57,Masculino,TI,Desarrollador Backend,Indeterminado,2018-04-06,4812.9,Cusco,Remoto,Activo,87.68
+E0460,Cruz,Riera,46,Femenino,Marketing,Especialista en Marca,Indeterminado,2025-01-29,3579.28,Lima,Mixto,Activo,20.54
+E0461,Gerardo,Amo,40,Femenino,Logística,Almacenero,Plazo Fijo,2020-11-29,4233.49,Trujillo,Remoto,Activo,53.61
+E0462,Isaura,Valverde,56,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2024-01-01,3025.07,Iquitos,Presencial,Cesado,55.91
+E0463,Nereida,Cerro,50,Femenino,Logística,Coordinador de Transporte,Indeterminado,2022-02-12,2948.52,Tacna,Mixto,Activo,65.93
+E0464,Diana,Bejarano,34,Femenino,Producción,Operario de Planta,Plazo Fijo,2021-03-31,3507.3,Arequipa,Presencial,Activo,61.4
+E0465,Nilda,Fabregat,23,Masculino,TI,Analista de Sistemas,Plazo Fijo,2024-04-16,5103.91,Lima,Presencial,Activo,43.54
+E0466,Jacobo,Río,24,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-10-08,1121.42,Arequipa,Mixto,Activo,40.06
+E0467,Amor,Serna,53,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2024-05-25,4176.28,Lima,Presencial,Cesado,85.06
+E0468,Jordán,Terrón,53,Femenino,Marketing,Especialista en Marca,Indeterminado,2018-01-10,1789.28,Piura,Mixto,Activo,65.5
+E0469,Teresita,Azorin,30,Masculino,Logística,Supervisor de Logística,Indeterminado,2023-04-05,2933.38,Tacna,Mixto,Activo,73.69
+E0470,Cecilio,Gallego,24,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2022-01-12,5813.87,Tacna,Remoto,Activo,96.31
+E0471,Florencia,Uría,49,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2024-07-06,2994.17,Cusco,Presencial,Activo,50.32
+E0472,Jose Miguel,Guardia,41,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2018-10-12,3174.84,Cusco,Mixto,Activo,77.0
+E0473,Mar,Martorell,41,Femenino,Producción,Jefe de Línea,Indeterminado,2024-10-24,1519.48,Lima,Remoto,Activo,78.87
+E0474,Rico,Morata,34,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2025-03-19,3645.76,Tacna,Mixto,Activo,9.3
+E0475,Clementina,Segovia,41,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2024-07-17,2722.44,Chiclayo,Remoto,Cesado,74.62
+E0476,Ignacio,Franch,32,Femenino,Producción,Operario de Planta,Plazo Fijo,2018-02-23,2157.23,Piura,Mixto,Activo,20.28
+E0477,Encarnación,Castillo,35,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2021-05-27,4356.37,Arequipa,Presencial,Activo,76.42
+E0478,Che,Berenguer,54,Masculino,TI,Soporte Técnico,Plazo Fijo,2018-05-26,5483.47,Tacna,Remoto,Activo,98.44
+E0479,Tomás,Granados,52,Femenino,TI,Desarrollador Backend,Plazo Fijo,2023-01-13,3595.48,Trujillo,Presencial,Activo,54.08
+E0480,Cipriano,Maza,52,Femenino,TI,Analista de Sistemas,Plazo Fijo,2018-11-25,5880.89,Trujillo,Remoto,Activo,0.84
+E0481,Perlita,Elías,33,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-01-04,4036.78,Tacna,Remoto,Cesado,26.28
+E0482,Pío,Elías,37,Femenino,Recursos Humanos,Reclutador,Indeterminado,2019-10-01,3458.76,Tacna,Presencial,Activo,75.22
+E0483,Mar,Toro,43,Femenino,Logística,Supervisor de Logística,Indeterminado,2023-05-30,1594.88,Trujillo,Mixto,Activo,72.08
+E0484,Juanito,Jurado,35,Femenino,TI,Desarrollador Backend,Indeterminado,2019-12-24,1688.21,Trujillo,Mixto,Cesado,49.96
+E0485,Santiago,Villena,60,Femenino,TI,Soporte Técnico,Indeterminado,2019-02-01,5282.61,Cusco,Mixto,Activo,69.05
+E0486,Fátima,Llorens,23,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2019-11-27,4705.09,Arequipa,Remoto,Activo,56.04
+E0487,Edgardo,Corral,36,Femenino,Finanzas,Contador,Indeterminado,2023-03-02,5327.56,Arequipa,Remoto,Activo,64.99
+E0488,Lidia,Patiño,54,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2024-12-08,3517.95,Tacna,Mixto,Activo,38.11
+E0489,Teodora,Lledó,38,Femenino,Producción,Operario de Planta,Plazo Fijo,2020-05-10,5025.13,Trujillo,Mixto,Activo,61.23
+E0490,Juan Francisco,Miró,45,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2020-07-25,2519.35,Tacna,Presencial,Activo,60.54
+E0491,Aroa,Olmedo,45,Femenino,TI,Soporte Técnico,Indeterminado,2021-08-08,1778.3,Chiclayo,Remoto,Cesado,23.46
+E0492,Rosario,Abad,36,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2022-07-30,1414.46,Iquitos,Presencial,Activo,2.64
+E0493,Alondra,Yáñez,45,Masculino,Finanzas,Contador,Plazo Fijo,2018-11-26,4250.0,Trujillo,Presencial,Activo,24.74
+E0494,Marcial,Campoy,38,Femenino,Producción,Operario de Planta,Indeterminado,2019-09-14,5181.29,Trujillo,Mixto,Cesado,35.68
+E0495,Matilde,Viñas,40,Femenino,TI,Analista de Sistemas,Indeterminado,2023-06-18,3185.36,Cusco,Mixto,Activo,45.65
+E0496,Adelardo,Palma,60,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2024-10-21,3371.97,Cusco,Remoto,Activo,44.19
+E0497,Rufina,Morillo,43,Femenino,Logística,Almacenero,Prácticas,2021-03-10,930.47,Cusco,Presencial,Activo,84.79
+E0498,Cristina,Gonzalo,42,Femenino,TI,Analista de Sistemas,Plazo Fijo,2021-12-04,5604.99,Lima,Mixto,Activo,76.59
+E0499,Bartolomé,Barba,38,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2024-01-18,3017.5,Tacna,Presencial,Activo,16.33
+E0500,Chema,Beltran,44,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2024-04-23,4100.39,Arequipa,Remoto,Activo,74.29
+E0501,Estrella,Borja,37,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2021-10-03,2398.25,Trujillo,Presencial,Activo,27.21
+E0502,Víctor,Peralta,59,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2021-04-17,1181.63,Lima,Presencial,Cesado,10.23
+E0503,Celestino,Mayol,37,Masculino,Producción,Jefe de Línea,Indeterminado,2018-02-07,1387.3,Lima,Presencial,Activo,34.19
+E0504,Trini,Diéguez,39,Femenino,Logística,Supervisor de Logística,Indeterminado,2022-01-20,1336.73,Lima,Remoto,Cesado,77.57
+E0505,Rosalinda,Pellicer,24,Femenino,Marketing,Especialista en Marca,Indeterminado,2022-10-20,5129.24,Cusco,Remoto,Activo,71.47
+E0506,Soraya,Azcona,44,Femenino,Marketing,Coordinador de Producto,Indeterminado,2020-05-15,3266.43,Lima,Presencial,Activo,98.21
+E0507,Nilda,Huertas,50,Femenino,Producción,Jefe de Línea,Indeterminado,2023-03-07,4119.86,Tacna,Presencial,Activo,54.96
+E0508,Jimena,Manzanares,27,Femenino,TI,Analista de Sistemas,Indeterminado,2019-12-29,2757.36,Cusco,Presencial,Activo,21.78
+E0509,Domitila,Arnaiz,27,Masculino,Producción,Jefe de Línea,Plazo Fijo,2020-01-26,1778.52,Tacna,Presencial,Activo,39.58
+E0510,Roberta,Alcaraz,35,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2022-04-27,3952.8,Chiclayo,Mixto,Activo,24.87
+E0511,Ceferino,Albero,51,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2021-03-03,1234.47,Tacna,Mixto,Activo,70.13
+E0512,Maximino,Gomez,26,Masculino,TI,Desarrollador Backend,Plazo Fijo,2020-08-26,4928.01,Tacna,Mixto,Activo,43.87
+E0513,Basilio,Ibáñez,32,Masculino,Producción,Jefe de Línea,Indeterminado,2018-12-01,1613.09,Tacna,Mixto,Activo,43.75
+E0514,Abel,Revilla,38,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2022-05-26,2692.66,Trujillo,Mixto,Activo,83.13
+E0515,Godofredo,Carro,55,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2019-12-13,2429.06,Trujillo,Remoto,Activo,45.41
+E0516,Clímaco,Zamora,60,Femenino,Producción,Operario de Planta,Indeterminado,2018-02-08,5274.12,Lima,Mixto,Activo,6.33
+E0517,Ruben,Rodrigo,54,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2019-07-05,1711.45,Chiclayo,Mixto,Activo,64.09
+E0518,Claudia,Cabrera,27,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-04-10,5164.43,Arequipa,Presencial,Cesado,3.13
+E0519,Rómulo,Vilanova,26,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2022-12-18,4183.68,Lima,Mixto,Activo,52.58
+E0520,Danilo,Montalbán,57,Femenino,Finanzas,Contador,Indeterminado,2023-11-23,4569.48,Piura,Mixto,Activo,20.87
+E0521,Rómulo,Olmo,51,Masculino,TI,Analista de Sistemas,Plazo Fijo,2019-08-15,3759.16,Lima,Remoto,Activo,79.42
+E0522,Cristina,Sabater,23,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2018-09-09,1325.13,Arequipa,Remoto,Activo,9.71
+E0523,Aránzazu,Roig,34,Femenino,Marketing,Especialista en Marca,Indeterminado,2019-09-18,4100.4,Piura,Mixto,Activo,55.81
+E0524,María Jesús,Marín,26,Femenino,Producción,Jefe de Línea,Indeterminado,2020-12-30,1775.72,Iquitos,Presencial,Activo,50.47
+E0525,Primitivo,Fábregas,30,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2022-07-02,3020.58,Tacna,Remoto,Activo,32.35
+E0526,Hilario,Frías,35,Masculino,TI,Analista de Sistemas,Plazo Fijo,2020-11-16,5805.57,Cusco,Remoto,Activo,0.02
+E0527,René,Sobrino,22,Femenino,Recursos Humanos,Analista de RRHH,Prácticas,2021-01-06,963.3,Trujillo,Remoto,Activo,21.48
+E0528,Gustavo,Escudero,40,Masculino,Producción,Jefe de Línea,Plazo Fijo,2023-07-04,1121.32,Trujillo,Presencial,Cesado,26.5
+E0529,Javier,Lloret,57,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2021-10-07,3822.37,Cusco,Presencial,Activo,72.36
+E0530,Reyna,Iglesias,50,Masculino,TI,Analista de Sistemas,Indeterminado,2019-08-09,4186.23,Arequipa,Mixto,Activo,57.63
+E0531,Samanta,Vizcaíno,25,Masculino,Logística,Supervisor de Logística,Indeterminado,2023-01-20,5646.35,Iquitos,Remoto,Activo,22.67
+E0532,Rufino,Segura,58,Masculino,Producción,Supervisor de Producción,Indeterminado,2021-12-15,2475.25,Iquitos,Presencial,Activo,56.49
+E0533,Ámbar,Criado,40,Masculino,Marketing,Especialista en Marca,Indeterminado,2021-11-05,4746.9,Iquitos,Remoto,Activo,28.98
+E0534,Isaura,Cuenca,45,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2024-12-21,3827.2,Arequipa,Remoto,Activo,26.26
+E0535,Cristian,Seco,45,Femenino,Producción,Operario de Planta,Plazo Fijo,2022-12-23,3765.63,Trujillo,Remoto,Activo,57.13
+E0536,Evelia,Real,55,Masculino,Marketing,Especialista en Marca,Indeterminado,2018-11-25,2569.7,Cusco,Remoto,Cesado,41.36
+E0537,Ligia,Romero,43,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-10-15,4252.93,Tacna,Mixto,Cesado,34.97
+E0538,Cesar,Vicens,48,Masculino,TI,Desarrollador Backend,Indeterminado,2018-07-19,4404.77,Piura,Presencial,Activo,85.28
+E0539,Raimundo,Somoza,27,Masculino,Marketing,Coordinador de Producto,Prácticas,2021-03-18,999.63,Trujillo,Remoto,Activo,11.13
+E0540,Quique,Ayala,48,Femenino,Finanzas,Contador,Indeterminado,2023-11-02,3657.69,Piura,Mixto,Activo,75.04
+E0541,Fito,Carbonell,55,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2020-07-07,4472.69,Trujillo,Mixto,Activo,90.6
+E0542,Lorenza,Vazquez,53,Masculino,Logística,Almacenero,Plazo Fijo,2018-09-19,1947.53,Lima,Remoto,Cesado,65.48
+E0543,Eli,Quero,20,Masculino,TI,Analista de Sistemas,Plazo Fijo,2021-10-17,5250.06,Cusco,Mixto,Activo,1.91
+E0544,Joaquín,Roman,44,Masculino,TI,Analista de Sistemas,Indeterminado,2020-03-24,3387.24,Arequipa,Remoto,Cesado,50.07
+E0545,Aristides,Pinedo,49,Masculino,Finanzas,Analista Financiero,Indeterminado,2025-01-29,3413.96,Cusco,Remoto,Cesado,68.43
+E0546,Fidel,Manrique,42,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2022-01-01,4102.77,Cusco,Presencial,Activo,81.49
+E0547,Serafina,Sevillano,21,Femenino,Marketing,Especialista en Marca,Indeterminado,2018-08-14,4260.64,Tacna,Remoto,Activo,52.07
+E0548,Tamara,Manjón,59,Masculino,TI,Desarrollador Backend,Plazo Fijo,2025-07-14,5850.62,Trujillo,Remoto,Activo,13.18
+E0549,Gema,Ribera,28,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2018-01-05,5978.13,Trujillo,Remoto,Activo,56.48
+E0550,Julio César,Guardia,30,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2018-05-09,2540.22,Arequipa,Presencial,Activo,76.54
+E0551,Danilo,Alegria,46,Femenino,Logística,Supervisor de Logística,Indeterminado,2021-07-25,4880.08,Cusco,Presencial,Cesado,2.62
+E0552,Eliana,Gomez,59,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2024-09-30,2107.17,Piura,Mixto,Activo,68.81
+E0553,José Luis,Aragonés,50,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2019-08-17,4223.31,Chiclayo,Mixto,Activo,49.14
+E0554,Consuelo,Carlos,28,Masculino,Marketing,Especialista en Marca,Indeterminado,2022-12-30,4806.21,Lima,Remoto,Activo,95.02
+E0555,Jose Manuel,Reina,34,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2024-09-02,5326.34,Trujillo,Remoto,Activo,86.68
+E0556,Leonor,Santamaria,35,Femenino,TI,Desarrollador Backend,Indeterminado,2020-10-11,2516.39,Iquitos,Mixto,Activo,45.16
+E0557,Horacio,Varela,22,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2020-02-14,1129.01,Iquitos,Mixto,Activo,63.06
+E0558,Zoraida,Adadia,23,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2020-03-23,4852.54,Iquitos,Remoto,Activo,42.25
+E0559,Rómulo,Alegre,59,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2024-06-20,5137.56,Trujillo,Remoto,Cesado,50.07
+E0560,Fito,Martínez,31,Masculino,TI,Soporte Técnico,Plazo Fijo,2021-04-24,1056.3,Tacna,Remoto,Activo,71.26
+E0561,Luisina,Garcia,32,Femenino,Finanzas,Contador,Indeterminado,2023-12-30,4218.28,Tacna,Mixto,Activo,12.35
+E0562,Jose Manuel,Montesinos,27,Femenino,Producción,Jefe de Línea,Indeterminado,2024-08-08,4515.91,Arequipa,Mixto,Activo,38.06
+E0563,Adora,Amo,30,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-04-12,5334.91,Trujillo,Presencial,Activo,5.13
+E0564,Claudia,Corbacho,39,Femenino,Producción,Jefe de Línea,Indeterminado,2018-02-09,1846.13,Cusco,Mixto,Activo,0.35
+E0565,Nacho,Rivero,36,Masculino,TI,Soporte Técnico,Plazo Fijo,2018-01-09,5023.79,Chiclayo,Mixto,Activo,58.89
+E0566,Quique,Arteaga,50,Femenino,TI,Soporte Técnico,Indeterminado,2025-01-22,3972.52,Arequipa,Mixto,Activo,27.81
+E0567,Soraya,Huguet,60,Masculino,Finanzas,Analista Financiero,Indeterminado,2023-06-04,4242.11,Trujillo,Presencial,Cesado,3.24
+E0568,Obdulia,Guardia,56,Femenino,Logística,Almacenero,Indeterminado,2020-04-13,3043.97,Lima,Presencial,Cesado,28.44
+E0569,María Del Carmen,Canet,58,Masculino,TI,Analista de Sistemas,Plazo Fijo,2018-03-27,1402.15,Tacna,Presencial,Activo,89.75
+E0570,Julia,Castellanos,24,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-03-29,1612.15,Cusco,Remoto,Activo,41.38
+E0571,Edmundo,Fuertes,33,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2022-02-22,4629.72,Arequipa,Mixto,Activo,68.87
+E0572,América,Aller,38,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2022-07-18,3845.97,Cusco,Mixto,Activo,61.43
+E0573,Paca,Hidalgo,51,Femenino,TI,Desarrollador Backend,Indeterminado,2019-06-12,2402.77,Piura,Mixto,Cesado,2.4
+E0574,Chuy,Barral,60,Masculino,Producción,Operario de Planta,Plazo Fijo,2019-03-29,1160.65,Iquitos,Remoto,Activo,63.75
+E0575,Luciano,Morata,20,Masculino,Producción,Jefe de Línea,Plazo Fijo,2019-03-11,2490.41,Cusco,Presencial,Activo,11.38
+E0576,Isa,Merino,41,Femenino,TI,Analista de Sistemas,Plazo Fijo,2020-05-25,1913.66,Lima,Presencial,Activo,47.91
+E0577,Dimas,Domínguez,50,Masculino,Producción,Operario de Planta,Plazo Fijo,2018-07-16,4109.91,Chiclayo,Presencial,Activo,81.42
+E0578,Gabriel,Alvarez,23,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2024-11-19,3646.94,Tacna,Mixto,Activo,33.17
+E0579,Fátima,Reig,42,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2024-11-24,5916.95,Lima,Remoto,Activo,38.96
+E0580,Tecla,Borja,58,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2025-04-15,1090.36,Tacna,Mixto,Cesado,87.7
+E0581,Pablo,Ariza,43,Femenino,Logística,Almacenero,Indeterminado,2023-02-10,1499.01,Cusco,Presencial,Activo,91.34
+E0582,Jose Ramón,Adán,48,Masculino,TI,Analista de Sistemas,Plazo Fijo,2020-03-05,2654.39,Trujillo,Presencial,Activo,52.36
+E0583,Nélida,Sandoval,40,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-04-30,4603.57,Trujillo,Presencial,Activo,86.48
+E0584,Casandra,Lucas,27,Masculino,Logística,Almacenero,Indeterminado,2020-03-01,3297.06,Arequipa,Remoto,Cesado,76.62
+E0585,Isaías,Infante,39,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2018-04-20,1946.82,Piura,Remoto,Activo,31.91
+E0586,Aurelia,Balaguer,48,Masculino,Logística,Almacenero,Indeterminado,2021-06-18,1510.31,Trujillo,Remoto,Activo,35.03
+E0587,Édgar,Rosado,40,Femenino,Marketing,Coordinador de Producto,Indeterminado,2019-07-24,2171.26,Cusco,Mixto,Activo,89.22
+E0588,Plinio,Font,54,Femenino,Finanzas,Analista Financiero,Indeterminado,2024-04-27,5509.69,Lima,Remoto,Cesado,5.38
+E0589,Severiano,Villegas,47,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2023-11-12,2733.02,Chiclayo,Mixto,Activo,71.29
+E0590,Venceslás,Sarabia,54,Masculino,TI,Analista de Sistemas,Plazo Fijo,2019-03-06,5051.15,Trujillo,Presencial,Cesado,31.04
+E0591,Hernando,Saavedra,49,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2024-01-10,2238.33,Trujillo,Mixto,Activo,69.96
+E0592,Salomón,Chaves,41,Femenino,TI,Soporte Técnico,Plazo Fijo,2024-07-25,3339.95,Lima,Presencial,Activo,84.58
+E0593,Gisela,Perales,38,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2024-05-10,1451.87,Trujillo,Mixto,Activo,64.95
+E0594,Juanita,Tur,39,Femenino,TI,Analista de Sistemas,Indeterminado,2022-07-25,4077.84,Iquitos,Presencial,Activo,38.38
+E0595,Amador,Aznar,41,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2020-09-10,3805.76,Iquitos,Remoto,Activo,23.62
+E0596,Patricia,Milla,24,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2018-03-23,3744.29,Chiclayo,Remoto,Cesado,95.59
+E0597,Celia,Fajardo,24,Masculino,Producción,Supervisor de Producción,Indeterminado,2020-02-26,3436.08,Iquitos,Remoto,Cesado,81.7
+E0598,Francisco Jose,Ibañez,57,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2019-03-15,3623.47,Trujillo,Remoto,Activo,44.72
+E0599,Luciano,Vizcaíno,33,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2024-07-18,4569.2,Cusco,Remoto,Activo,58.27
+E0600,Eladio,Villa,59,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2023-05-14,5498.45,Lima,Remoto,Cesado,56.0
+E0601,Osvaldo,Vargas,42,Masculino,Logística,Almacenero,Plazo Fijo,2018-06-25,4490.26,Piura,Remoto,Activo,71.18
+E0602,David,Ballesteros,45,Femenino,TI,Analista de Sistemas,Indeterminado,2020-10-25,1809.19,Piura,Mixto,Cesado,38.46
+E0603,Tania,Serrano,43,Femenino,Marketing,Diseñador Gráfico,Prácticas,2018-09-07,988.83,Trujillo,Presencial,Activo,14.4
+E0604,Wálter,Sierra,51,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2025-01-29,5016.12,Trujillo,Mixto,Activo,69.54
+E0605,Adán,Gallo,47,Masculino,TI,Analista de Sistemas,Plazo Fijo,2023-03-13,5087.76,Iquitos,Mixto,Activo,18.58
+E0606,Victoriano,Acevedo,58,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2024-03-29,3473.77,Piura,Mixto,Activo,57.64
+E0607,Albert,Borja,22,Masculino,Recursos Humanos,Reclutador,Indeterminado,2025-03-21,3871.96,Tacna,Presencial,Cesado,73.13
+E0608,Rafa,Dueñas,37,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2019-01-24,3325.33,Arequipa,Presencial,Activo,53.92
+E0609,Fernanda,Rovira,57,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2022-08-30,4877.13,Tacna,Mixto,Activo,90.61
+E0610,Blas,Alba,56,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-06-09,1779.27,Cusco,Remoto,Activo,56.37
+E0611,Bartolomé,Herranz,23,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2022-10-10,5951.15,Lima,Mixto,Activo,8.25
+E0612,Lisandro,Pizarro,52,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2025-05-08,2354.53,Trujillo,Mixto,Cesado,11.15
+E0613,Flora,Llopis,31,Masculino,Producción,Jefe de Línea,Indeterminado,2019-12-29,2254.55,Tacna,Presencial,Activo,79.94
+E0614,Miguel Ángel,Zabala,22,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2022-03-19,4746.5,Trujillo,Remoto,Activo,23.79
+E0615,Herberto,Montaña,48,Masculino,Marketing,Coordinador de Producto,Indeterminado,2024-01-27,4186.26,Tacna,Presencial,Cesado,46.4
+E0616,Octavia,Salvà,50,Femenino,TI,Analista de Sistemas,Plazo Fijo,2019-10-14,4395.4,Piura,Remoto,Activo,14.51
+E0617,Ester,Barragán,47,Masculino,Logística,Supervisor de Logística,Indeterminado,2020-11-14,2530.54,Iquitos,Mixto,Cesado,53.13
+E0618,Toño,Figueroa,42,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-03-27,2300.55,Cusco,Remoto,Activo,58.42
+E0619,Domitila,Ferrándiz,49,Masculino,Producción,Supervisor de Producción,Indeterminado,2018-07-25,2640.65,Piura,Mixto,Activo,1.06
+E0620,Teo,Gomez,20,Masculino,Finanzas,Contador,Plazo Fijo,2023-05-05,1456.81,Arequipa,Mixto,Activo,72.53
+E0621,Leyre,Álvarez,36,Masculino,Finanzas,Analista Financiero,Indeterminado,2020-04-19,5688.22,Arequipa,Presencial,Activo,63.81
+E0622,Rolando,Neira,27,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2020-05-24,4802.76,Iquitos,Mixto,Activo,69.57
+E0623,Alonso,Silva,36,Femenino,TI,Analista de Sistemas,Plazo Fijo,2021-05-08,3228.96,Arequipa,Mixto,Activo,69.22
+E0624,Inés,Espinosa,40,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2025-05-29,2870.79,Cusco,Presencial,Activo,25.82
+E0625,Carmelo,Boada,36,Masculino,TI,Desarrollador Backend,Indeterminado,2025-01-22,4024.23,Chiclayo,Presencial,Activo,10.84
+E0626,Perlita,Cuesta,54,Femenino,Marketing,Coordinador de Producto,Indeterminado,2018-02-10,4557.08,Arequipa,Remoto,Cesado,7.04
+E0627,Jennifer,Suarez,36,Femenino,Finanzas,Contador,Indeterminado,2021-10-15,4176.5,Trujillo,Mixto,Activo,26.64
+E0628,César,Hervás,41,Femenino,Recursos Humanos,Analista de RRHH,Indeterminado,2025-03-31,3140.81,Chiclayo,Remoto,Activo,0.33
+E0629,Isaías,Palacio,50,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2018-01-03,4386.91,Tacna,Remoto,Cesado,99.7
+E0630,Toni,Puente,25,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2020-03-29,4785.5,Arequipa,Remoto,Activo,17.66
+E0631,Marisa,Melero,22,Femenino,Producción,Operario de Planta,Indeterminado,2023-08-27,2907.83,Cusco,Mixto,Activo,35.93
+E0632,Aurora,Madrid,25,Femenino,Producción,Operario de Planta,Indeterminado,2021-09-29,1908.98,Trujillo,Presencial,Activo,6.3
+E0633,Omar,Rico,54,Femenino,TI,Analista de Sistemas,Indeterminado,2022-04-25,1117.81,Chiclayo,Presencial,Activo,72.1
+E0634,Cintia,Rodríguez,45,Masculino,Marketing,Coordinador de Producto,Indeterminado,2019-05-05,5341.91,Chiclayo,Mixto,Activo,23.3
+E0635,Elisa,Rius,24,Masculino,Producción,Operario de Planta,Indeterminado,2019-08-27,1026.65,Chiclayo,Mixto,Activo,64.88
+E0636,Lucio,Arias,20,Masculino,Producción,Operario de Planta,Indeterminado,2021-03-15,3242.86,Cusco,Presencial,Activo,6.4
+E0637,Sabina,Ureña,26,Masculino,TI,Analista de Sistemas,Plazo Fijo,2018-06-13,5008.58,Piura,Presencial,Activo,83.59
+E0638,Marco,Gual,45,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2025-03-27,5170.69,Trujillo,Remoto,Activo,59.31
+E0639,Elisa,Marco,41,Masculino,Finanzas,Contador,Plazo Fijo,2025-04-02,1782.02,Trujillo,Remoto,Activo,43.87
+E0640,Raquel,Ariza,57,Masculino,Marketing,Especialista en Marca,Prácticas,2024-02-01,1009.25,Iquitos,Presencial,Activo,0.63
+E0641,Natividad,Rojas,31,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2025-03-29,4446.06,Cusco,Remoto,Activo,20.62
+E0642,Teodoro,Barbero,60,Femenino,Recursos Humanos,Reclutador,Indeterminado,2024-04-17,5686.11,Iquitos,Presencial,Activo,71.72
+E0643,Lupe,Arnaiz,59,Masculino,Producción,Jefe de Línea,Prácticas,2019-07-01,953.17,Tacna,Remoto,Activo,11.75
+E0644,Carmela,Milla,53,Masculino,Recursos Humanos,Reclutador,Indeterminado,2018-02-05,4835.58,Piura,Remoto,Activo,19.37
+E0645,Sabina,Franch,29,Femenino,TI,Desarrollador Backend,Indeterminado,2024-01-29,5607.95,Trujillo,Mixto,Activo,28.51
+E0646,Arsenio,Cañete,47,Femenino,Logística,Coordinador de Transporte,Indeterminado,2018-11-22,1459.41,Chiclayo,Presencial,Activo,17.59
+E0647,Victor Manuel,Villanueva,21,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-11-03,4587.51,Arequipa,Presencial,Activo,74.71
+E0648,Rocío,Pavón,40,Masculino,Finanzas,Contador,Plazo Fijo,2018-04-27,2132.19,Piura,Presencial,Activo,37.55
+E0649,Fabricio,Azorin,34,Masculino,TI,Analista de Sistemas,Indeterminado,2024-04-09,5444.78,Chiclayo,Presencial,Activo,60.94
+E0650,Cándido,Atienza,31,Femenino,Logística,Almacenero,Plazo Fijo,2019-05-19,1914.37,Chiclayo,Mixto,Activo,20.22
+E0651,Manola,Rodriguez,28,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2021-03-12,1622.06,Lima,Remoto,Activo,17.12
+E0652,Carolina,Jara,41,Masculino,Logística,Coordinador de Transporte,Indeterminado,2021-11-28,5760.49,Trujillo,Mixto,Activo,55.28
+E0653,Marcio,Urrutia,34,Masculino,TI,Analista de Sistemas,Plazo Fijo,2022-01-28,3929.32,Chiclayo,Presencial,Activo,73.0
+E0654,Galo,Guerra,35,Masculino,Logística,Supervisor de Logística,Indeterminado,2023-04-20,5727.5,Piura,Mixto,Activo,4.42
+E0655,Ceferino,Mate,50,Masculino,TI,Analista de Sistemas,Indeterminado,2019-02-08,5035.26,Iquitos,Remoto,Activo,24.05
+E0656,Martín,Alcántara,55,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2024-12-18,1602.85,Iquitos,Presencial,Activo,99.9
+E0657,Paula,Rivera,21,Femenino,Producción,Jefe de Línea,Indeterminado,2019-04-02,3258.56,Trujillo,Mixto,Activo,46.38
+E0658,Eliana,Barreda,28,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2024-05-21,4141.35,Chiclayo,Mixto,Activo,69.08
+E0659,Ignacio,Amorós,53,Masculino,Logística,Supervisor de Logística,Indeterminado,2022-08-22,5726.7,Cusco,Mixto,Activo,8.1
+E0660,Nando,Folch,41,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2023-09-17,1492.6,Tacna,Presencial,Activo,4.09
+E0661,Chuy,Ríos,43,Masculino,Producción,Supervisor de Producción,Indeterminado,2024-08-10,4526.34,Arequipa,Mixto,Cesado,33.49
+E0662,Gala,Alcázar,54,Masculino,Producción,Jefe de Línea,Plazo Fijo,2022-03-10,4787.69,Piura,Mixto,Activo,26.74
+E0663,Josefina,Diaz,47,Femenino,Finanzas,Analista Financiero,Indeterminado,2022-12-12,3223.72,Tacna,Remoto,Activo,53.19
+E0664,Zacarías,Romeu,54,Femenino,TI,Analista de Sistemas,Indeterminado,2020-10-23,5723.0,Tacna,Mixto,Cesado,88.4
+E0665,Fernanda,Goicoechea,25,Masculino,TI,Desarrollador Backend,Plazo Fijo,2025-03-07,1484.48,Cusco,Presencial,Cesado,14.8
+E0666,Nico,Soriano,29,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2022-12-31,3041.84,Lima,Remoto,Activo,42.01
+E0667,Federico,León,21,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2020-11-11,5163.18,Lima,Presencial,Activo,34.28
+E0668,Pelayo,Alvarado,40,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2023-11-15,2471.7,Chiclayo,Remoto,Activo,30.65
+E0669,Etelvina,Vicente,36,Masculino,TI,Soporte Técnico,Plazo Fijo,2020-07-19,1682.08,Cusco,Presencial,Activo,16.64
+E0670,Amparo,Pintor,30,Femenino,Marketing,Especialista en Marca,Indeterminado,2021-12-04,2136.18,Trujillo,Presencial,Activo,57.45
+E0671,Judith,Hoz,48,Femenino,Logística,Almacenero,Plazo Fijo,2021-01-14,4515.17,Piura,Mixto,Activo,14.79
+E0672,Maristela,Iñiguez,48,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2024-01-07,2981.13,Arequipa,Presencial,Activo,94.78
+E0673,Sigfrido,Ramos,40,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2019-07-02,4506.64,Tacna,Mixto,Activo,96.96
+E0674,Felicia,Prats,56,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2024-09-12,4423.98,Chiclayo,Remoto,Activo,13.94
+E0675,Loida,Bermúdez,55,Masculino,Logística,Almacenero,Plazo Fijo,2018-01-01,5193.25,Iquitos,Mixto,Activo,32.64
+E0676,Ruth,Cortés,58,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2022-05-02,1922.28,Piura,Remoto,Activo,44.55
+E0677,Ascensión,Casas,25,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2020-08-14,3997.74,Tacna,Mixto,Activo,36.11
+E0678,Encarna,Bermúdez,29,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2020-12-12,2373.18,Tacna,Presencial,Activo,44.56
+E0679,Alba,Ballester,55,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2024-09-27,5962.47,Chiclayo,Mixto,Activo,80.57
+E0680,Elvira,Nogués,47,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2018-04-21,1983.46,Arequipa,Presencial,Activo,52.53
+E0681,Rufino,Oliveras,41,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2023-05-29,3005.97,Arequipa,Presencial,Activo,55.58
+E0682,Adelina,Quintero,56,Masculino,Marketing,Especialista en Marca,Indeterminado,2024-04-05,3738.11,Iquitos,Remoto,Activo,30.2
+E0683,Mariana,Paniagua,57,Femenino,TI,Analista de Sistemas,Indeterminado,2021-07-29,1066.08,Chiclayo,Presencial,Cesado,30.02
+E0684,Luisa,Arenas,60,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2023-12-27,1839.42,Cusco,Remoto,Cesado,76.47
+E0685,Abraham,Gámez,51,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2021-01-22,3366.06,Tacna,Mixto,Activo,62.8
+E0686,Ruth,Falcó,50,Masculino,Logística,Coordinador de Transporte,Indeterminado,2023-03-05,1755.64,Lima,Remoto,Cesado,46.1
+E0687,Sol,Prat,28,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2023-09-26,3056.94,Cusco,Remoto,Cesado,29.17
+E0688,Claudio,Crespi,60,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2019-01-30,3965.73,Trujillo,Presencial,Activo,87.24
+E0689,Olegario,Iñiguez,39,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2024-01-30,3639.51,Tacna,Presencial,Activo,1.29
+E0690,Elena,Garmendia,53,Femenino,Logística,Supervisor de Logística,Indeterminado,2023-08-09,5599.0,Iquitos,Remoto,Cesado,15.46
+E0691,Leticia,Carvajal,34,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2019-04-09,3264.69,Arequipa,Remoto,Cesado,13.12
+E0692,Luis,Torre,21,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2021-11-20,5072.39,Tacna,Presencial,Cesado,30.47
+E0693,Arturo,García,27,Masculino,Marketing,Coordinador de Producto,Indeterminado,2020-10-08,2078.73,Trujillo,Mixto,Activo,98.11
+E0694,Teresa,Blanca,47,Masculino,Finanzas,Analista Financiero,Indeterminado,2023-10-18,1145.56,Chiclayo,Remoto,Cesado,65.98
+E0695,Ismael,Rozas,57,Masculino,TI,Desarrollador Backend,Indeterminado,2018-06-15,1265.87,Cusco,Presencial,Activo,78.24
+E0696,Teo,Barceló,58,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2018-12-05,2712.28,Trujillo,Mixto,Cesado,74.62
+E0697,Cosme,Perelló,37,Femenino,Logística,Almacenero,Indeterminado,2019-01-19,3821.09,Piura,Mixto,Activo,76.32
+E0698,María Carmen,Buendía,53,Masculino,Producción,Operario de Planta,Indeterminado,2023-10-07,5501.42,Cusco,Presencial,Activo,9.87
+E0699,Bonifacio,Cuevas,33,Femenino,Logística,Coordinador de Transporte,Indeterminado,2023-08-21,4344.78,Trujillo,Remoto,Cesado,35.48
+E0700,Américo,Ibarra,44,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2021-07-10,1502.13,Piura,Remoto,Cesado,11.03
+E0701,Teobaldo,Roselló,28,Femenino,Logística,Coordinador de Transporte,Indeterminado,2018-05-16,4591.23,Cusco,Mixto,Activo,11.57
+E0702,Fanny,Frutos,38,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2023-04-17,5879.23,Cusco,Mixto,Activo,40.73
+E0703,Quique,Haro,47,Masculino,Finanzas,Contador,Prácticas,2021-12-17,994.82,Tacna,Presencial,Activo,67.21
+E0704,Arcelia,Bolaños,45,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2021-02-01,1656.87,Arequipa,Presencial,Activo,97.76
+E0705,Pilar,Miguel,30,Masculino,Logística,Almacenero,Plazo Fijo,2024-12-01,3946.45,Tacna,Presencial,Cesado,83.81
+E0706,Reyes,Solana,51,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2023-12-21,5712.15,Cusco,Mixto,Activo,60.32
+E0707,Cristina,Marquez,45,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2022-09-23,1477.75,Trujillo,Remoto,Activo,23.08
+E0708,Chelo,Olmo,28,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2021-11-03,3455.54,Lima,Presencial,Activo,38.26
+E0709,Hipólito,Orozco,40,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2022-09-20,4281.68,Arequipa,Presencial,Activo,20.19
+E0710,Ricarda,Aragón,51,Femenino,Recursos Humanos,Reclutador,Indeterminado,2023-11-13,3701.36,Tacna,Mixto,Activo,88.01
+E0711,Abilio,Taboada,27,Femenino,TI,Soporte Técnico,Indeterminado,2025-04-20,3260.46,Iquitos,Remoto,Cesado,65.94
+E0712,Loida,Barranco,39,Masculino,TI,Soporte Técnico,Plazo Fijo,2020-05-06,4558.72,Trujillo,Remoto,Activo,56.89
+E0713,Cristina,Ros,51,Femenino,TI,Analista de Sistemas,Plazo Fijo,2023-08-05,1212.59,Trujillo,Mixto,Activo,97.09
+E0714,Amor,Tomé,59,Femenino,Logística,Supervisor de Logística,Indeterminado,2023-07-06,3923.65,Lima,Presencial,Activo,34.89
+E0715,Gilberto,Haro,57,Masculino,Producción,Jefe de Línea,Plazo Fijo,2023-03-01,3100.71,Iquitos,Presencial,Activo,5.64
+E0716,Ainoa,Bejarano,35,Masculino,Marketing,Coordinador de Producto,Indeterminado,2023-04-17,1360.65,Cusco,Mixto,Activo,11.45
+E0717,Jovita,Tello,30,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2018-07-31,4264.88,Lima,Remoto,Activo,90.14
+E0718,Pablo,Rios,37,Masculino,Producción,Jefe de Línea,Plazo Fijo,2024-08-06,2845.13,Lima,Remoto,Activo,9.77
+E0719,Chucho,Gallart,51,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2020-11-21,3448.43,Piura,Remoto,Cesado,29.95
+E0720,Marisol,Piñeiro,47,Masculino,TI,Analista de Sistemas,Plazo Fijo,2023-05-20,2015.39,Arequipa,Mixto,Cesado,99.62
+E0721,Mamen,Rincón,45,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-01-24,5210.03,Arequipa,Mixto,Activo,27.34
+E0722,Cintia,Llanos,56,Femenino,TI,Desarrollador Backend,Plazo Fijo,2018-09-16,4233.29,Tacna,Presencial,Activo,29.99
+E0723,Telmo,Alcántara,54,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2021-01-08,4098.57,Iquitos,Remoto,Activo,54.76
+E0724,Aura,Carvajal,21,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2024-07-01,5807.93,Piura,Mixto,Activo,63.79
+E0725,Ramón,Vallés,59,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2018-08-30,1947.29,Lima,Mixto,Cesado,15.05
+E0726,Fidel,Martinez,39,Femenino,TI,Soporte Técnico,Plazo Fijo,2023-04-21,1962.04,Arequipa,Mixto,Activo,28.7
+E0727,Saturnino,Dueñas,30,Femenino,Producción,Supervisor de Producción,Indeterminado,2023-02-05,2139.11,Piura,Remoto,Cesado,24.56
+E0728,Amando,Perez,39,Femenino,TI,Analista de Sistemas,Indeterminado,2019-01-14,4209.89,Iquitos,Remoto,Activo,27.27
+E0729,Liliana,Gelabert,21,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2018-02-15,5252.28,Trujillo,Mixto,Activo,5.53
+E0730,Emilio,Jordá,25,Femenino,Recursos Humanos,Reclutador,Indeterminado,2024-12-21,5476.64,Arequipa,Remoto,Activo,83.98
+E0731,Milagros,Acedo,28,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-10-28,4297.58,Arequipa,Mixto,Activo,9.02
+E0732,Calixta,Girona,58,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2024-05-24,4701.87,Iquitos,Mixto,Activo,10.68
+E0733,Marina,Salom,33,Femenino,TI,Soporte Técnico,Plazo Fijo,2020-07-09,1213.54,Cusco,Mixto,Activo,11.3
+E0734,Eusebio,Vilar,54,Femenino,TI,Analista de Sistemas,Indeterminado,2019-04-15,5388.73,Piura,Remoto,Activo,71.57
+E0735,Guiomar,Comas,39,Masculino,Producción,Supervisor de Producción,Indeterminado,2020-01-09,4287.47,Lima,Mixto,Activo,78.88
+E0736,Jonatan,Arenas,35,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2024-08-27,5789.51,Cusco,Mixto,Activo,68.52
+E0737,Regina,Ropero,54,Masculino,TI,Soporte Técnico,Plazo Fijo,2022-05-25,5632.46,Lima,Remoto,Activo,93.63
+E0738,Vinicio,Peralta,35,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2018-06-12,2538.12,Chiclayo,Mixto,Activo,27.4
+E0739,Severino,Almagro,25,Femenino,TI,Analista de Sistemas,Indeterminado,2019-02-08,4567.15,Iquitos,Remoto,Activo,69.85
+E0740,Carmela,Marti,52,Masculino,Logística,Supervisor de Logística,Indeterminado,2022-09-05,4454.72,Tacna,Remoto,Activo,18.37
+E0741,Paula,Reguera,48,Masculino,Finanzas,Contador,Indeterminado,2020-10-08,2479.13,Piura,Mixto,Cesado,24.96
+E0742,Elodia,Exposito,28,Femenino,Logística,Supervisor de Logística,Indeterminado,2025-04-03,1606.89,Chiclayo,Mixto,Activo,82.68
+E0743,Eufemia,Jaén,38,Masculino,Finanzas,Contador,Plazo Fijo,2020-08-25,2925.02,Tacna,Presencial,Activo,88.43
+E0744,Ambrosio,Herrera,34,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2022-05-10,5868.83,Piura,Presencial,Activo,85.18
+E0745,Dorita,Sacristán,23,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2021-06-22,1381.54,Cusco,Presencial,Cesado,56.72
+E0746,Galo,Almagro,20,Femenino,TI,Analista de Sistemas,Indeterminado,2023-03-27,2068.13,Chiclayo,Presencial,Cesado,86.19
+E0747,Nacho,Salinas,37,Femenino,Producción,Jefe de Línea,Indeterminado,2024-01-04,3116.73,Iquitos,Presencial,Activo,99.52
+E0748,Jovita,Feijoo,38,Masculino,TI,Desarrollador Backend,Plazo Fijo,2025-01-01,1075.88,Iquitos,Presencial,Activo,45.1
+E0749,Ricardo,Tejero,35,Femenino,Recursos Humanos,Asistente de Bienestar,Prácticas,2021-02-02,982.32,Chiclayo,Presencial,Cesado,32.32
+E0750,Lázaro,Pont,45,Masculino,Producción,Jefe de Línea,Indeterminado,2018-09-22,3957.78,Iquitos,Mixto,Cesado,5.88
+E0751,Encarna,Sánchez,41,Masculino,TI,Soporte Técnico,Plazo Fijo,2019-06-29,2216.04,Lima,Presencial,Activo,39.47
+E0752,Estela,Gabaldón,43,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2020-05-13,1791.22,Trujillo,Remoto,Activo,87.79
+E0753,Ainoa,Bernad,28,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2024-10-15,2250.26,Iquitos,Presencial,Cesado,12.79
+E0754,Joaquina,Pineda,37,Femenino,TI,Soporte Técnico,Plazo Fijo,2025-05-01,5136.02,Cusco,Mixto,Activo,43.58
+E0755,Guiomar,Arcos,30,Femenino,Producción,Jefe de Línea,Plazo Fijo,2020-11-07,5254.88,Trujillo,Mixto,Cesado,14.86
+E0756,Zacarías,Verdejo,34,Masculino,Finanzas,Contador,Plazo Fijo,2024-07-14,4509.23,Cusco,Presencial,Cesado,89.52
+E0757,Marcelino,Bru,51,Masculino,TI,Soporte Técnico,Indeterminado,2018-09-16,3429.45,Chiclayo,Remoto,Cesado,9.36
+E0758,Rogelio,Larrea,38,Masculino,Marketing,Coordinador de Producto,Indeterminado,2021-03-03,5446.84,Cusco,Mixto,Activo,97.16
+E0759,Marcio,Bustos,53,Masculino,TI,Desarrollador Backend,Plazo Fijo,2021-11-18,4361.93,Piura,Remoto,Cesado,68.13
+E0760,Jose Antonio,Bellido,27,Femenino,Logística,Coordinador de Transporte,Indeterminado,2019-11-16,1709.64,Arequipa,Remoto,Activo,70.77
+E0761,Adolfo,Figuerola,50,Femenino,Producción,Jefe de Línea,Plazo Fijo,2024-02-07,5846.74,Lima,Remoto,Activo,73.15
+E0762,Martin,Benitez,56,Masculino,Marketing,Especialista en Marca,Indeterminado,2023-06-12,4976.61,Cusco,Remoto,Activo,60.23
+E0763,Nicodemo,Flores,25,Femenino,Logística,Almacenero,Indeterminado,2019-02-13,1382.18,Piura,Remoto,Cesado,77.95
+E0764,Aránzazu,Maestre,38,Masculino,Finanzas,Contador,Plazo Fijo,2021-02-12,4660.96,Chiclayo,Remoto,Activo,60.35
+E0765,Marc,Paz,42,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2023-01-07,3188.39,Piura,Remoto,Activo,56.31
+E0766,Melchor,Diego,47,Masculino,TI,Soporte Técnico,Indeterminado,2024-03-02,4127.58,Trujillo,Remoto,Cesado,34.17
+E0767,Mamen,Jimenez,49,Masculino,Producción,Supervisor de Producción,Indeterminado,2024-07-25,3603.3,Trujillo,Remoto,Activo,43.74
+E0768,Estefanía,Guardia,50,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2025-01-04,3582.08,Cusco,Presencial,Activo,55.1
+E0769,Dan,Espada,22,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2018-05-16,3285.81,Iquitos,Presencial,Activo,58.56
+E0770,Teodoro,Cortes,52,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2025-05-27,4915.92,Chiclayo,Presencial,Cesado,41.63
+E0771,Jonatan,Pons,39,Femenino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2025-05-22,3211.24,Chiclayo,Mixto,Activo,91.81
+E0772,Jose Miguel,Roldan,31,Masculino,Marketing,Especialista en Marca,Indeterminado,2019-08-28,1469.1,Cusco,Mixto,Cesado,11.67
+E0773,Luís,Barranco,30,Femenino,TI,Analista de Sistemas,Plazo Fijo,2019-02-17,5826.63,Iquitos,Mixto,Activo,81.31
+E0774,Andrés Felipe,Cabanillas,59,Femenino,Producción,Supervisor de Producción,Indeterminado,2020-04-01,1374.31,Iquitos,Remoto,Cesado,11.19
+E0775,Ámbar,Vazquez,21,Masculino,Finanzas,Analista Financiero,Indeterminado,2022-10-25,1665.93,Chiclayo,Mixto,Activo,62.61
+E0776,Hipólito,Río,54,Masculino,Finanzas,Contador,Indeterminado,2018-06-27,3333.12,Chiclayo,Presencial,Cesado,90.24
+E0777,Serafina,Aparicio,48,Femenino,TI,Desarrollador Backend,Plazo Fijo,2019-05-10,2160.13,Chiclayo,Mixto,Activo,83.38
+E0778,Catalina,Pomares,23,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2024-10-09,5232.48,Iquitos,Remoto,Cesado,39.97
+E0779,Galo,Planas,52,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2022-09-13,1026.43,Lima,Mixto,Activo,26.78
+E0780,Encarnación,Franch,46,Femenino,Finanzas,Contador,Indeterminado,2019-03-01,4466.4,Tacna,Remoto,Cesado,72.62
+E0781,Eutimio,Collado,50,Femenino,TI,Desarrollador Backend,Plazo Fijo,2019-10-16,5538.99,Piura,Mixto,Activo,85.35
+E0782,Marco,Serra,49,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2023-08-27,5153.72,Iquitos,Remoto,Activo,79.98
+E0783,Demetrio,Arcos,30,Masculino,Logística,Coordinador de Transporte,Indeterminado,2022-10-02,3378.25,Arequipa,Mixto,Cesado,60.57
+E0784,Encarnacion,Ríos,26,Femenino,TI,Soporte Técnico,Indeterminado,2018-02-04,3753.13,Piura,Presencial,Activo,26.08
+E0785,Encarna,Rivera,30,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2018-06-16,3113.25,Arequipa,Remoto,Cesado,22.41
+E0786,Alejandro,Cases,36,Femenino,Logística,Almacenero,Indeterminado,2023-06-25,5256.78,Cusco,Presencial,Activo,92.66
+E0787,Chus,Gimenez,48,Femenino,Finanzas,Analista Financiero,Indeterminado,2021-10-01,1142.79,Arequipa,Mixto,Cesado,11.81
+E0788,Ani,Jove,33,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2023-04-29,3168.5,Cusco,Mixto,Activo,9.93
+E0789,Encarnacion,Padilla,43,Femenino,Marketing,Especialista en Marca,Indeterminado,2024-05-30,5846.06,Piura,Remoto,Activo,80.91
+E0790,Yaiza,Rios,41,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2018-09-09,2818.25,Arequipa,Remoto,Activo,66.5
+E0791,Lisandro,Nicolau,29,Femenino,Marketing,Especialista en Marca,Plazo Fijo,2020-06-18,5584.36,Iquitos,Remoto,Activo,51.62
+E0792,Dorita,Solsona,43,Masculino,TI,Desarrollador Backend,Indeterminado,2021-03-17,5017.67,Lima,Mixto,Cesado,31.48
+E0793,Quirino,Requena,30,Femenino,Finanzas,Contador,Indeterminado,2019-02-10,5607.17,Lima,Mixto,Activo,5.78
+E0794,Roldán,Daza,60,Femenino,TI,Soporte Técnico,Plazo Fijo,2021-02-15,4695.48,Cusco,Mixto,Cesado,27.98
+E0795,Nicolás,Amo,53,Masculino,Producción,Jefe de Línea,Plazo Fijo,2022-05-12,1970.03,Chiclayo,Mixto,Activo,88.77
+E0796,Sol,Figueroa,45,Masculino,Logística,Almacenero,Indeterminado,2022-05-31,2625.88,Lima,Mixto,Activo,54.08
+E0797,Teodosio,Girón,33,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2023-01-29,2657.39,Cusco,Mixto,Cesado,89.03
+E0798,Azeneth,Cardona,54,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2018-04-19,1489.94,Iquitos,Mixto,Activo,25.98
+E0799,José,Santana,52,Femenino,Finanzas,Analista Financiero,Indeterminado,2023-09-01,2440.66,Arequipa,Remoto,Activo,98.3
+E0800,Cristian,Benito,57,Masculino,Logística,Supervisor de Logística,Indeterminado,2023-11-29,4908.88,Cusco,Mixto,Activo,51.97
+E0801,Miguela,Muro,35,Masculino,Logística,Coordinador de Transporte,Indeterminado,2025-06-18,3233.35,Piura,Remoto,Activo,82.84
+E0802,Jose Ignacio,Vazquez,25,Masculino,Finanzas,Contador,Indeterminado,2021-07-26,2018.96,Trujillo,Remoto,Activo,52.63
+E0803,Angelina,Alvarado,57,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2022-04-05,3076.75,Chiclayo,Mixto,Activo,94.78
+E0804,Mercedes,Salazar,46,Masculino,Marketing,Coordinador de Producto,Indeterminado,2021-12-24,4535.53,Trujillo,Remoto,Activo,51.32
+E0805,Ainoa,Calzada,53,Masculino,Producción,Operario de Planta,Indeterminado,2023-08-20,1095.32,Chiclayo,Remoto,Activo,36.93
+E0806,Cayetana,Marco,27,Femenino,Finanzas,Analista Financiero,Indeterminado,2024-10-23,2398.22,Tacna,Mixto,Cesado,30.49
+E0807,José,Sacristán,43,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2019-11-06,1650.65,Lima,Presencial,Cesado,89.43
+E0808,Severino,Roura,38,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2021-05-28,1550.2,Chiclayo,Presencial,Cesado,4.47
+E0809,Fátima,Monreal,50,Femenino,Recursos Humanos,Reclutador,Indeterminado,2024-03-06,3339.4,Tacna,Remoto,Activo,50.48
+E0810,Rebeca,Larrañaga,49,Femenino,Producción,Jefe de Línea,Plazo Fijo,2018-01-27,2578.85,Trujillo,Mixto,Activo,90.02
+E0811,Rosalía,Izquierdo,41,Masculino,Producción,Jefe de Línea,Indeterminado,2021-08-07,1378.85,Cusco,Mixto,Activo,57.2
+E0812,Ileana,Agudo,39,Masculino,Producción,Supervisor de Producción,Indeterminado,2023-06-08,5772.7,Arequipa,Presencial,Activo,52.18
+E0813,Felicidad,Salamanca,50,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2022-05-17,2324.06,Trujillo,Presencial,Activo,70.56
+E0814,Marcos,Alegre,57,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2018-04-22,3915.69,Tacna,Remoto,Activo,2.33
+E0815,Zaira,Coronado,47,Masculino,TI,Desarrollador Backend,Indeterminado,2022-08-04,2233.89,Tacna,Remoto,Activo,54.18
+E0816,Rebeca,Poza,38,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2021-03-10,2485.45,Arequipa,Presencial,Activo,5.89
+E0817,Malena,Garmendia,40,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2019-08-19,2906.99,Lima,Remoto,Cesado,89.3
+E0818,Cleto,Garzón,36,Femenino,Finanzas,Analista Financiero,Indeterminado,2023-10-10,4743.32,Piura,Presencial,Activo,75.24
+E0819,Xavier,Reig,44,Masculino,Logística,Almacenero,Indeterminado,2024-10-08,3734.32,Tacna,Remoto,Activo,40.75
+E0820,Clemente,Losa,34,Masculino,Logística,Coordinador de Transporte,Indeterminado,2022-11-23,4798.3,Arequipa,Presencial,Activo,40.67
+E0821,Eugenia,Soria,25,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2020-07-06,3655.31,Trujillo,Presencial,Activo,55.52
+E0822,Alexandra,Jaén,22,Masculino,TI,Analista de Sistemas,Indeterminado,2023-03-12,5858.45,Cusco,Mixto,Cesado,92.18
+E0823,Isaac,Flor,37,Femenino,Producción,Jefe de Línea,Plazo Fijo,2024-02-08,2008.66,Tacna,Mixto,Cesado,73.92
+E0824,Leocadia,Iborra,56,Masculino,Logística,Almacenero,Indeterminado,2025-01-17,1553.49,Iquitos,Mixto,Activo,99.88
+E0825,Hugo,Cortes,47,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2024-07-09,5723.22,Tacna,Mixto,Activo,70.78
+E0826,María José,Arellano,37,Masculino,Producción,Jefe de Línea,Plazo Fijo,2021-09-19,3261.18,Tacna,Presencial,Cesado,69.18
+E0827,José Antonio,Porras,20,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2022-08-10,3747.86,Trujillo,Remoto,Activo,53.81
+E0828,Macarena,Comas,24,Masculino,Producción,Jefe de Línea,Plazo Fijo,2018-01-10,5858.24,Arequipa,Remoto,Activo,35.8
+E0829,Coral,Campos,31,Masculino,Finanzas,Contador,Indeterminado,2019-11-04,3184.01,Tacna,Presencial,Activo,75.84
+E0830,Reynaldo,Perelló,42,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2020-11-08,2051.22,Cusco,Mixto,Activo,3.68
+E0831,Concepción,Andres,51,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2020-06-08,5340.48,Iquitos,Presencial,Cesado,19.38
+E0832,Palmira,Arce,56,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-10-10,1259.8,Trujillo,Mixto,Activo,85.55
+E0833,Azahara,Osorio,53,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2024-01-08,4366.11,Lima,Mixto,Activo,88.31
+E0834,Horacio,Almeida,20,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2024-02-19,3123.02,Lima,Remoto,Activo,68.02
+E0835,Piedad,Tamarit,49,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2018-12-12,2068.46,Lima,Mixto,Activo,53.24
+E0836,Chita,Cordero,40,Masculino,TI,Desarrollador Backend,Indeterminado,2021-05-16,5392.1,Tacna,Presencial,Activo,22.56
+E0837,Nidia,Pou,47,Masculino,Marketing,Especialista en Marca,Indeterminado,2024-04-26,2505.79,Trujillo,Remoto,Cesado,43.19
+E0838,Cesar,Arnal,21,Femenino,Logística,Almacenero,Plazo Fijo,2023-03-02,2138.48,Arequipa,Remoto,Activo,82.16
+E0839,Arcelia,Velasco,53,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2024-07-14,4100.52,Chiclayo,Presencial,Cesado,6.07
+E0840,Alexandra,Rios,22,Femenino,Logística,Coordinador de Transporte,Plazo Fijo,2023-11-21,1244.35,Arequipa,Presencial,Cesado,61.07
+E0841,Francisco Jose,Cuadrado,47,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2022-07-10,1194.67,Lima,Mixto,Activo,61.73
+E0842,Seve,Jover,46,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2019-12-31,2876.47,Lima,Remoto,Activo,61.92
+E0843,Luis Miguel,Alvarado,41,Masculino,TI,Analista de Sistemas,Indeterminado,2020-04-22,1905.88,Tacna,Mixto,Cesado,71.33
+E0844,José Manuel,Bauzà,57,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2018-01-30,3064.51,Cusco,Remoto,Cesado,13.77
+E0845,Basilio,Mulet,22,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-02-05,5795.89,Iquitos,Mixto,Activo,88.52
+E0846,Ricarda,Viñas,29,Masculino,TI,Soporte Técnico,Indeterminado,2023-06-27,2799.97,Tacna,Remoto,Activo,65.77
+E0847,Rocío,Rey,29,Masculino,Marketing,Coordinador de Producto,Indeterminado,2022-01-31,2673.15,Lima,Remoto,Activo,20.13
+E0848,Román,Giner,24,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2020-06-13,4437.63,Chiclayo,Mixto,Activo,33.11
+E0849,Balduino,Barrio,57,Femenino,Recursos Humanos,Reclutador,Plazo Fijo,2024-04-18,1752.76,Iquitos,Remoto,Activo,91.05
+E0850,Raúl,Río,51,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2019-06-18,2097.49,Piura,Mixto,Activo,73.46
+E0851,Moreno,Bello,41,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2021-10-05,2769.48,Trujillo,Presencial,Activo,55.47
+E0852,Santos,Gómez,29,Femenino,TI,Desarrollador Backend,Indeterminado,2024-05-19,5874.82,Tacna,Presencial,Cesado,17.41
+E0853,Melchor,Marco,36,Masculino,Logística,Coordinador de Transporte,Indeterminado,2022-07-11,1923.66,Piura,Presencial,Activo,91.06
+E0854,Juan Luis,Bello,21,Masculino,TI,Analista de Sistemas,Plazo Fijo,2025-06-08,5676.1,Arequipa,Remoto,Activo,36.96
+E0855,Jovita,Ferrera,43,Masculino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2018-01-18,1261.46,Iquitos,Mixto,Activo,13.08
+E0856,Herminia,Roman,32,Masculino,Recursos Humanos,Reclutador,Indeterminado,2021-08-25,3969.71,Tacna,Remoto,Activo,76.31
+E0857,Leticia,Malo,57,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2021-08-21,2183.16,Trujillo,Remoto,Activo,85.15
+E0858,Marina,Alcalde,57,Femenino,Marketing,Coordinador de Producto,Indeterminado,2018-03-14,4940.36,Arequipa,Remoto,Cesado,38.81
+E0859,Benita,Ojeda,52,Femenino,TI,Analista de Sistemas,Plazo Fijo,2023-03-16,2561.64,Chiclayo,Presencial,Activo,48.33
+E0860,Evangelina,Torrent,51,Femenino,Logística,Coordinador de Transporte,Indeterminado,2018-04-24,5600.41,Iquitos,Mixto,Activo,89.49
+E0861,Nicolasa,Sanmartín,48,Masculino,TI,Desarrollador Backend,Indeterminado,2021-07-05,5435.75,Cusco,Remoto,Activo,37.41
+E0862,Nacio,Sebastián,55,Masculino,Marketing,Especialista en Marca,Indeterminado,2020-09-15,3560.42,Cusco,Remoto,Activo,46.53
+E0863,Rodolfo,Sáez,59,Femenino,TI,Soporte Técnico,Plazo Fijo,2025-02-01,3003.39,Chiclayo,Remoto,Activo,38.24
+E0864,Eduardo,Villa,31,Femenino,Marketing,Diseñador Gráfico,Plazo Fijo,2020-04-21,5500.48,Arequipa,Remoto,Activo,51.28
+E0865,Celestino,Tamayo,25,Femenino,Marketing,Especialista en Marca,Indeterminado,2023-03-06,2756.4,Arequipa,Presencial,Activo,67.51
+E0866,Susana,Granados,36,Femenino,Producción,Supervisor de Producción,Indeterminado,2018-02-07,4507.61,Cusco,Presencial,Activo,75.24
+E0867,Leyre,Feliu,54,Femenino,Finanzas,Contador,Plazo Fijo,2021-12-16,4900.46,Cusco,Remoto,Activo,82.19
+E0868,Vicenta,Cruz,20,Femenino,Producción,Supervisor de Producción,Indeterminado,2018-09-06,2083.82,Trujillo,Remoto,Activo,51.58
+E0869,Julio,Agullo,55,Femenino,Producción,Jefe de Línea,Indeterminado,2024-08-02,2517.29,Tacna,Presencial,Activo,94.19
+E0870,Nicodemo,Arregui,46,Masculino,TI,Soporte Técnico,Indeterminado,2021-06-21,1634.48,Lima,Remoto,Activo,73.78
+E0871,Damián,Soto,51,Femenino,Logística,Almacenero,Plazo Fijo,2020-05-28,4406.82,Iquitos,Remoto,Activo,69.05
+E0872,Amor,Martínez,39,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2018-08-25,1709.21,Lima,Presencial,Activo,79.91
+E0873,Imelda,Ruano,58,Femenino,TI,Desarrollador Backend,Indeterminado,2023-09-21,3639.87,Iquitos,Presencial,Activo,32.88
+E0874,Damián,Ávila,48,Femenino,Finanzas,Analista Financiero,Indeterminado,2021-07-28,3733.24,Arequipa,Mixto,Activo,60.34
+E0875,Renato,Rosselló,21,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2018-02-24,1973.87,Iquitos,Remoto,Activo,7.0
+E0876,Modesto,Vicens,23,Femenino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2021-08-02,5288.72,Trujillo,Remoto,Activo,98.96
+E0877,Andrés Felipe,Echevarría,28,Femenino,TI,Analista de Sistemas,Indeterminado,2019-05-30,5772.34,Arequipa,Remoto,Cesado,20.57
+E0878,Osvaldo,Quintanilla,47,Femenino,Marketing,Coordinador de Producto,Plazo Fijo,2024-05-26,1959.07,Cusco,Mixto,Activo,0.74
+E0879,Joel,Solano,29,Femenino,Finanzas,Contador,Plazo Fijo,2021-02-26,2597.48,Piura,Mixto,Activo,57.61
+E0880,Benito,Martí,25,Femenino,Producción,Jefe de Línea,Plazo Fijo,2021-11-15,5202.18,Tacna,Mixto,Activo,82.34
+E0881,León,Villanueva,31,Femenino,Marketing,Especialista en Marca,Indeterminado,2018-07-22,2880.25,Iquitos,Remoto,Activo,9.55
+E0882,Urbano,Amat,22,Masculino,Marketing,Diseñador Gráfico,Indeterminado,2022-12-07,5575.62,Cusco,Mixto,Activo,41.13
+E0883,Elpidio,Navarrete,55,Masculino,Logística,Almacenero,Plazo Fijo,2022-08-02,4816.35,Arequipa,Mixto,Activo,16.48
+E0884,Ángela,Pérez,33,Masculino,TI,Desarrollador Backend,Plazo Fijo,2024-04-23,4451.04,Arequipa,Mixto,Activo,74.6
+E0885,Fernando,Saavedra,32,Femenino,Finanzas,Analista Financiero,Indeterminado,2024-10-08,4525.13,Cusco,Presencial,Activo,74.87
+E0886,Reinaldo,Barreda,51,Femenino,Finanzas,Analista Financiero,Indeterminado,2021-09-28,5746.59,Piura,Mixto,Activo,27.91
+E0887,Leocadia,Alarcón,30,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2018-08-02,2421.31,Arequipa,Presencial,Cesado,67.14
+E0888,Reina,Roldan,20,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2022-02-15,2028.53,Tacna,Presencial,Activo,53.23
+E0889,Ester,Zurita,48,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2022-11-09,4430.06,Arequipa,Remoto,Cesado,0.47
+E0890,Anselma,Yáñez,44,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2023-05-27,1393.33,Piura,Presencial,Cesado,1.46
+E0891,Eliseo,Villalobos,32,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2019-12-11,1776.93,Trujillo,Mixto,Activo,81.56
+E0892,Herminia,Bilbao,40,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2022-11-09,1542.48,Iquitos,Remoto,Cesado,32.34
+E0893,Emilia,Martí,20,Femenino,Producción,Jefe de Línea,Indeterminado,2025-03-17,2008.73,Lima,Remoto,Cesado,81.51
+E0894,Jordán,Marín,59,Femenino,Finanzas,Analista Financiero,Plazo Fijo,2022-05-27,2458.78,Piura,Remoto,Activo,10.18
+E0895,Zacarías,Carrillo,54,Masculino,Logística,Almacenero,Indeterminado,2024-07-12,4460.32,Tacna,Mixto,Activo,63.54
+E0896,Eulalia,Matas,40,Femenino,Finanzas,Contador,Plazo Fijo,2022-06-21,5554.36,Lima,Mixto,Activo,64.06
+E0897,Hermenegildo,Feijoo,34,Masculino,Marketing,Especialista en Marca,Plazo Fijo,2021-09-30,2128.53,Arequipa,Remoto,Activo,61.98
+E0898,Tadeo,Tena,23,Masculino,Logística,Supervisor de Logística,Indeterminado,2018-10-12,1698.97,Cusco,Presencial,Activo,23.81
+E0899,Abraham,Blázquez,58,Femenino,Producción,Jefe de Línea,Indeterminado,2025-06-15,2539.92,Trujillo,Remoto,Activo,97.76
+E0900,Rosalina,Garmendia,38,Masculino,Marketing,Coordinador de Producto,Indeterminado,2024-04-02,2158.2,Tacna,Remoto,Activo,66.5
+E0901,Tamara,Pagès,35,Masculino,Recursos Humanos,Reclutador,Indeterminado,2018-06-27,3172.77,Tacna,Presencial,Cesado,49.16
+E0902,María Belén,Caballero,32,Masculino,Producción,Operario de Planta,Indeterminado,2021-04-21,1395.22,Piura,Presencial,Activo,7.82
+E0903,Miriam,Alemán,49,Femenino,Marketing,Coordinador de Producto,Indeterminado,2022-01-04,3079.77,Piura,Presencial,Activo,57.64
+E0904,Eva,Blanch,60,Masculino,Logística,Supervisor de Logística,Indeterminado,2024-06-13,2949.1,Arequipa,Remoto,Activo,42.27
+E0905,Clímaco,Montoya,59,Femenino,Marketing,Diseñador Gráfico,Indeterminado,2025-04-14,3096.9,Lima,Remoto,Activo,92.15
+E0906,Noelia,Sáez,58,Masculino,Recursos Humanos,Asistente de Bienestar,Plazo Fijo,2022-09-14,2858.88,Trujillo,Remoto,Activo,37.51
+E0907,Alfonso,Guzmán,58,Femenino,Finanzas,Contador,Indeterminado,2021-06-25,3309.14,Trujillo,Mixto,Activo,0.42
+E0908,Purificación,Ferrándiz,52,Femenino,TI,Soporte Técnico,Plazo Fijo,2022-12-31,5850.4,Iquitos,Remoto,Activo,30.78
+E0909,Ciriaco,Ariza,57,Masculino,TI,Desarrollador Backend,Indeterminado,2019-10-10,5655.9,Arequipa,Remoto,Cesado,43.63
+E0910,Cruz,Coronado,36,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2020-01-21,4420.64,Chiclayo,Mixto,Activo,92.65
+E0911,Dorita,Gibert,35,Masculino,TI,Desarrollador Backend,Indeterminado,2024-08-16,4512.25,Tacna,Mixto,Activo,64.53
+E0912,Carlito,Sanmiguel,36,Femenino,Producción,Operario de Planta,Indeterminado,2021-01-02,3982.9,Cusco,Presencial,Cesado,77.1
+E0913,Jenny,Batlle,44,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2022-11-22,5543.44,Arequipa,Mixto,Cesado,42.69
+E0914,Bibiana,Arias,39,Femenino,Recursos Humanos,Reclutador,Indeterminado,2020-12-12,5337.95,Iquitos,Mixto,Activo,77.67
+E0915,Nicodemo,Vidal,42,Masculino,Logística,Coordinador de Transporte,Plazo Fijo,2023-04-27,2947.71,Piura,Mixto,Cesado,16.84
+E0916,Charo,Verdejo,51,Masculino,Finanzas,Analista Financiero,Plazo Fijo,2023-07-04,3043.39,Iquitos,Mixto,Activo,17.06
+E0917,Consuela,Bello,43,Masculino,Producción,Operario de Planta,Indeterminado,2020-09-13,1852.66,Piura,Remoto,Activo,81.44
+E0918,Fermín,Ramis,31,Masculino,Finanzas,Jefe de Tesorería,Plazo Fijo,2018-08-17,2244.91,Trujillo,Presencial,Activo,91.3
+E0919,Candela,Carpio,26,Masculino,Finanzas,Contador,Indeterminado,2019-05-13,1562.14,Arequipa,Remoto,Activo,58.56
+E0920,Eladio,Quintanilla,50,Femenino,Producción,Operario de Planta,Indeterminado,2021-09-25,2279.03,Lima,Presencial,Activo,78.92
+E0921,Trinidad,Ripoll,22,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2018-04-26,3987.13,Lima,Remoto,Activo,47.32
+E0922,Socorro,Pardo,41,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2020-10-20,5071.42,Tacna,Remoto,Activo,37.84
+E0923,Dalila,Verdugo,23,Femenino,Logística,Almacenero,Plazo Fijo,2022-10-03,5343.65,Lima,Remoto,Activo,88.8
+E0924,Eutropio,Juárez,28,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2021-01-20,4739.8,Cusco,Mixto,Activo,61.84
+E0925,Estela,Tolosa,50,Femenino,Producción,Operario de Planta,Plazo Fijo,2025-01-06,5784.76,Lima,Mixto,Cesado,36.02
+E0926,Maximino,Garay,22,Femenino,Producción,Jefe de Línea,Indeterminado,2024-08-28,3386.6,Piura,Mixto,Activo,93.91
+E0927,Emma,Asensio,50,Masculino,Producción,Jefe de Línea,Indeterminado,2022-11-05,1919.04,Cusco,Mixto,Activo,87.62
+E0928,Lola,Sans,52,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2019-09-03,5150.04,Arequipa,Remoto,Cesado,44.63
+E0929,Lalo,Acevedo,27,Femenino,Producción,Supervisor de Producción,Indeterminado,2025-02-20,2003.02,Piura,Presencial,Cesado,99.34
+E0930,Norberto,Acuña,21,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2025-01-20,4576.22,Cusco,Presencial,Activo,67.06
+E0931,Florencia,Castrillo,28,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2019-08-31,5654.12,Tacna,Presencial,Activo,37.7
+E0932,Rosendo,Sola,44,Femenino,Marketing,Especialista en Marca,Indeterminado,2018-02-06,2405.25,Cusco,Presencial,Cesado,74.06
+E0933,Anselmo,Reyes,32,Masculino,Recursos Humanos,Reclutador,Indeterminado,2022-12-09,5767.13,Trujillo,Remoto,Activo,59.01
+E0934,Severo,Almazán,32,Femenino,TI,Soporte Técnico,Indeterminado,2018-11-23,5665.0,Tacna,Mixto,Activo,60.16
+E0935,Alfredo,Carro,34,Masculino,TI,Desarrollador Backend,Plazo Fijo,2021-02-17,1663.63,Chiclayo,Remoto,Activo,49.98
+E0936,Javi,Navarro,49,Masculino,Recursos Humanos,Reclutador,Indeterminado,2023-02-24,4303.33,Trujillo,Mixto,Activo,30.89
+E0937,Marcela,Murillo,27,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2024-02-23,5131.44,Chiclayo,Mixto,Activo,96.65
+E0938,Rogelio,Ariño,23,Femenino,Marketing,Coordinador de Producto,Indeterminado,2025-01-13,5667.57,Piura,Mixto,Activo,5.26
+E0939,Vicenta,Suárez,31,Femenino,Producción,Jefe de Línea,Indeterminado,2020-02-21,5555.75,Cusco,Mixto,Activo,54.79
+E0940,Bruno,Serrano,41,Femenino,Producción,Jefe de Línea,Plazo Fijo,2022-03-09,2912.69,Tacna,Remoto,Activo,92.31
+E0941,Leoncio,Barba,55,Femenino,Finanzas,Analista Financiero,Indeterminado,2024-04-18,5319.89,Tacna,Mixto,Activo,70.96
+E0942,Carla,Pla,49,Masculino,Recursos Humanos,Analista de RRHH,Indeterminado,2025-04-21,3375.98,Chiclayo,Mixto,Activo,80.44
+E0943,Prudencia,Feliu,32,Masculino,Logística,Coordinador de Transporte,Indeterminado,2022-08-19,4912.48,Arequipa,Mixto,Activo,98.27
+E0944,Ángela,Bermudez,30,Masculino,Finanzas,Contador,Indeterminado,2021-01-01,5721.47,Chiclayo,Presencial,Activo,65.01
+E0945,Verónica,Rosa,57,Femenino,Marketing,Coordinador de Producto,Indeterminado,2020-03-20,1102.34,Iquitos,Presencial,Activo,30.27
+E0946,Esperanza,Olivé,58,Masculino,Producción,Supervisor de Producción,Indeterminado,2023-01-29,5955.2,Iquitos,Mixto,Activo,86.49
+E0947,Melisa,Abril,44,Femenino,Producción,Supervisor de Producción,Prácticas,2024-11-06,988.82,Chiclayo,Remoto,Cesado,12.21
+E0948,María,Barbero,52,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2018-04-17,4447.19,Chiclayo,Remoto,Activo,18.11
+E0949,Juanito,Reyes,50,Femenino,Logística,Coordinador de Transporte,Indeterminado,2025-03-10,2578.91,Trujillo,Presencial,Activo,70.07
+E0950,José Manuel,Bravo,45,Femenino,Finanzas,Jefe de Tesorería,Indeterminado,2020-09-12,5826.0,Arequipa,Presencial,Cesado,59.91
+E0951,Anastasio,Torres,31,Masculino,Recursos Humanos,Reclutador,Indeterminado,2024-08-22,1128.46,Tacna,Presencial,Activo,8.78
+E0952,Ruperto,Chico,36,Masculino,Finanzas,Analista Financiero,Indeterminado,2020-09-27,5829.02,Cusco,Remoto,Activo,94.52
+E0953,Toni,Calleja,20,Masculino,Logística,Almacenero,Indeterminado,2019-07-15,3637.9,Cusco,Mixto,Activo,69.51
+E0954,Regina,Quero,53,Femenino,Recursos Humanos,Asistente de Bienestar,Indeterminado,2021-10-18,1431.98,Piura,Mixto,Activo,18.81
+E0955,Gilberto,Cordero,39,Masculino,Marketing,Coordinador de Producto,Indeterminado,2020-01-02,2750.46,Piura,Mixto,Activo,42.2
+E0956,Reyna,Casal,55,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2024-04-02,3242.26,Trujillo,Remoto,Activo,94.02
+E0957,Abilio,Calvet,29,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2018-03-18,4462.79,Cusco,Mixto,Activo,56.36
+E0958,Lope,Ródenas,52,Masculino,TI,Desarrollador Backend,Indeterminado,2021-01-14,2851.24,Tacna,Remoto,Cesado,12.46
+E0959,Pastora,Coello,27,Femenino,Finanzas,Contador,Plazo Fijo,2021-11-06,5539.87,Arequipa,Remoto,Cesado,79.81
+E0960,Wilfredo,Santana,37,Masculino,Finanzas,Contador,Indeterminado,2024-07-21,5755.54,Piura,Remoto,Cesado,72.83
+E0961,Valerio,Gual,39,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2021-01-03,3830.84,Tacna,Mixto,Activo,60.75
+E0962,Juan Bautista,Ferrero,23,Masculino,Logística,Supervisor de Logística,Plazo Fijo,2024-02-23,5016.85,Trujillo,Remoto,Activo,12.76
+E0963,Brunilda,Aramburu,20,Masculino,Producción,Operario de Planta,Plazo Fijo,2024-02-14,3807.53,Trujillo,Remoto,Cesado,72.54
+E0964,Amelia,Vazquez,43,Masculino,Producción,Supervisor de Producción,Plazo Fijo,2018-11-23,3250.98,Iquitos,Mixto,Activo,79.85
+E0965,Laura,Planas,52,Femenino,Logística,Supervisor de Logística,Indeterminado,2024-05-22,4152.67,Piura,Remoto,Activo,40.65
+E0966,Eduardo,Mosquera,40,Masculino,Producción,Operario de Planta,Indeterminado,2020-12-12,2146.99,Arequipa,Mixto,Cesado,5.74
+E0967,Marcelino,Moya,38,Femenino,Finanzas,Contador,Indeterminado,2025-03-06,3453.87,Trujillo,Remoto,Activo,61.63
+E0968,Visitación,Font,20,Femenino,Producción,Supervisor de Producción,Indeterminado,2019-09-10,5970.71,Tacna,Presencial,Activo,96.46
+E0969,Silvia,Agullo,53,Masculino,Marketing,Especialista en Marca,Indeterminado,2018-09-19,3534.38,Tacna,Presencial,Activo,37.91
+E0970,Zaida,Cardona,43,Masculino,Logística,Coordinador de Transporte,Indeterminado,2024-01-29,5243.44,Piura,Mixto,Activo,48.31
+E0971,Evaristo,Flor,36,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2019-08-07,5609.9,Iquitos,Presencial,Activo,89.25
+E0972,Montserrat,Soto,51,Masculino,Logística,Almacenero,Indeterminado,2025-03-09,2442.64,Chiclayo,Remoto,Cesado,89.02
+E0973,Seve,Álvaro,31,Femenino,Logística,Almacenero,Indeterminado,2024-03-09,3424.67,Arequipa,Remoto,Activo,89.85
+E0974,Tomasa,Cuervo,46,Masculino,TI,Desarrollador Backend,Plazo Fijo,2020-07-25,2198.18,Trujillo,Mixto,Activo,29.93
+E0975,Abigaíl,Olivé,47,Masculino,Recursos Humanos,Reclutador,Plazo Fijo,2024-09-30,4257.34,Arequipa,Remoto,Cesado,35.37
+E0976,Ximena,Saez,47,Masculino,Logística,Coordinador de Transporte,Indeterminado,2018-02-12,1891.11,Piura,Presencial,Cesado,42.11
+E0977,Reina,Cal,41,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2025-04-30,5795.67,Piura,Remoto,Cesado,48.91
+E0978,Victor,Ponce,51,Masculino,Logística,Supervisor de Logística,Indeterminado,2025-02-06,1486.35,Iquitos,Presencial,Activo,12.61
+E0979,Chuy,Lladó,42,Masculino,Producción,Operario de Planta,Plazo Fijo,2025-05-20,5137.27,Lima,Mixto,Activo,73.74
+E0980,Rolando,Robles,47,Femenino,Logística,Supervisor de Logística,Indeterminado,2020-07-07,4787.76,Chiclayo,Presencial,Activo,72.92
+E0981,Erasmo,Torre,31,Masculino,Logística,Almacenero,Plazo Fijo,2025-04-13,2184.09,Cusco,Mixto,Cesado,70.65
+E0982,Ana Sofía,Riquelme,26,Masculino,Marketing,Coordinador de Producto,Plazo Fijo,2024-04-07,1540.74,Trujillo,Presencial,Cesado,99.04
+E0983,Abraham,Agudo,29,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2024-06-03,5312.26,Piura,Presencial,Activo,30.64
+E0984,Chuy,Sancho,60,Masculino,Marketing,Diseñador Gráfico,Plazo Fijo,2024-01-20,1241.04,Iquitos,Remoto,Activo,30.43
+E0985,Áurea,Céspedes,37,Femenino,Logística,Supervisor de Logística,Indeterminado,2018-03-10,2551.59,Iquitos,Presencial,Cesado,0.05
+E0986,Chema,Antúnez,40,Masculino,Logística,Supervisor de Logística,Indeterminado,2019-01-07,1440.86,Cusco,Mixto,Activo,49.13
+E0987,Lino,Barros,41,Femenino,Finanzas,Analista Financiero,Indeterminado,2018-03-09,3727.46,Lima,Mixto,Activo,74.13
+E0988,Dulce,Morante,43,Femenino,Marketing,Coordinador de Producto,Indeterminado,2018-09-02,3892.54,Cusco,Presencial,Activo,13.05
+E0989,Adán,Alarcón,58,Masculino,Finanzas,Jefe de Tesorería,Indeterminado,2021-03-25,4502.63,Piura,Presencial,Cesado,54.66
+E0990,Cayetano,Mínguez,41,Femenino,Producción,Jefe de Línea,Indeterminado,2023-04-21,4584.3,Piura,Mixto,Cesado,41.82
+E0991,Isabela,Soriano,36,Femenino,Logística,Supervisor de Logística,Plazo Fijo,2025-06-25,1273.28,Arequipa,Remoto,Activo,95.24
+E0992,Begoña,Bastida,21,Masculino,Recursos Humanos,Reclutador,Indeterminado,2022-01-05,1160.41,Trujillo,Remoto,Activo,69.38
+E0993,Olimpia,Tamayo,45,Femenino,Producción,Supervisor de Producción,Plazo Fijo,2021-07-21,3149.37,Arequipa,Presencial,Activo,39.02
+E0994,Paula,Llamas,58,Femenino,Marketing,Especialista en Marca,Indeterminado,2020-07-21,3829.52,Lima,Presencial,Activo,79.06
+E0995,Coral,Fuente,49,Femenino,Logística,Almacenero,Indeterminado,2022-10-03,2291.37,Cusco,Mixto,Cesado,4.56
+E0996,Apolonia,Bello,35,Femenino,Finanzas,Jefe de Tesorería,Plazo Fijo,2023-03-07,5631.15,Trujillo,Remoto,Activo,5.15
+E0997,Efraín,Albero,35,Masculino,Recursos Humanos,Analista de RRHH,Plazo Fijo,2025-01-16,2691.63,Lima,Mixto,Activo,94.64
+E0998,Graciano,Uribe,55,Femenino,Producción,Operario de Planta,Indeterminado,2023-05-23,2425.12,Iquitos,Mixto,Activo,1.04
+E0999,Amaya,Navarrete,42,Masculino,Producción,Jefe de Línea,Indeterminado,2018-01-28,5856.04,Trujillo,Remoto,Activo,68.81
+E1000,Rosario,Bru,36,Masculino,TI,Desarrollador Backend,Plazo Fijo,2022-09-29,1963.87,Tacna,Remoto,Cesado,23.17
